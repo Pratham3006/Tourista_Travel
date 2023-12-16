@@ -1,0 +1,49 @@
+.navbar-chart {
+    background-color: rgb(28, 156, 230);
+    background-size: cover;
+}
+
+.chart {
+   
+    background-color: rgb(254, 255, 253);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.chartcontainer {
+
+
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+
+}
+
+
+.header {
+    margin: 20px 0;
+    text-align: center;
+    color: #ffffff;
+}
+
+.content {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.chart-container {
+    width: 900px;
+    height: 300px;
+}
+
+.edit {
+    background-color: antiquewhite;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
