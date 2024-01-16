@@ -2,12 +2,12 @@
 import React from 'react';
 import { useParams } from 'react-router-dom';
 import Cardrow2 from './Cardrow2';
-import data from './Data.json'; // Import your data file
+import data from './Data.json';
 import foodSvg from 'D:/tourism/tour/src/images/states/Backgrounds/foodSvg.svg'
 import placeSvg from 'D:/tourism/tour/src/images/states/Backgrounds/placeSvg.svg'
 import wildlifeSvg from 'D:/tourism/tour/src/images/states/Backgrounds/animalSvg.svg'
 import festivalSvg from  'D:/tourism/tour/src/images/states/Backgrounds/celbSvg.svg'
-import image from 'D:/tourism/tour/src/images/states/Goa/Food/food-1.jpeg'
+
 
 export default function Nextpage() {
   const { state, option } = useParams();

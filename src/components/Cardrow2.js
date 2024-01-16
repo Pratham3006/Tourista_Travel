@@ -3,7 +3,7 @@ import React, { useState } from 'react'
 
 import { Link } from 'react-router-dom'
 import { useParams } from 'react-router-dom';
-import image from "D:/tourism/tour/src/images/states/Goa/Food/food-1.jpeg"
+
 
 export default function Cardrow2(props) {
     const{state,option}=useParams();

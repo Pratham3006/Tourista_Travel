@@ -31,7 +31,7 @@ function HomeScreen() {
     <>
       <div className="bg-clr">
       <Navbar img={logo} />
-      <Carousel video={video1} video1={video2} video2={video3} video3={video4} />
+      <Carousel video={video1}  />
       <Description />
       <center>   <h3>Select the State you want to go to</h3></center>
       <Cardrow Description={"Tropical & Vibrant"}  state={"Goa"} para={"Goa is a paradisiacal coastal destination known for its pristine beaches, vibrant nightlife, and rich Portuguese heritage."} image={goa} Description1={"Land of Ganesha"} state1={"Maharasthra"} para1={"Maharashtra is a diverse state in western India known for its bustling cosmopolitan cities, such as Mumbai"} image1={image1} />
