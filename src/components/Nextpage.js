@@ -3,10 +3,10 @@ import React from 'react';
 import { useParams } from 'react-router-dom';
 import Cardrow2 from './Cardrow2';
 import data from './Data.json';
-import foodSvg from 'D:/tourism/tour/src/images/states/Backgrounds/foodSvg.svg'
-import placeSvg from 'D:/tourism/tour/src/images/states/Backgrounds/placeSvg.svg'
-import wildlifeSvg from 'D:/tourism/tour/src/images/states/Backgrounds/animalSvg.svg'
-import festivalSvg from  'D:/tourism/tour/src/images/states/Backgrounds/celbSvg.svg'
+import foodSvg from '../images/states/Backgrounds/foodSvg.svg'
+import placeSvg from '../images/states/Backgrounds/placeSvg.svg'
+import wildlifeSvg from '../images/states/Backgrounds/animalSvg.svg'
+import festivalSvg from  '../images/states/Backgrounds/celbSvg.svg'
 
 
 export default function Nextpage() {

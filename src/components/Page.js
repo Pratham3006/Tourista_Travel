@@ -1,10 +1,10 @@
 import React from 'react'
 import { useParams } from 'react-router-dom'
 import Cardrow1 from './Cardrow1';
-import food from 'D:/tourism/tour/src/images/states/Backgrounds/food'
-import place from 'D:/tourism/tour/src/images/states/Backgrounds/place'
-import animal from 'D:/tourism/tour/src/images/states/Backgrounds/animal'
-import festival from 'D:/tourism/tour/src/images/states/Backgrounds/festival'
+import food from '../images/states/Backgrounds/food'
+import place from '../images/states/Backgrounds/place'
+import animal from '../images/states/Backgrounds/animal'
+import festival from '../images/states/Backgrounds/festival'
 
 
 
