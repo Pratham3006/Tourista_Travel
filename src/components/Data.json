@@ -495,746 +495,732 @@
       
     },
     "Kerala": {
-        "options": [
-          {
-            "type": "Food",
-            "title": "Goan Delight 1",
-            "image": "goa_Food_1.jpg",
-            "content": "Explore the delicious and diverse Goan culinary delights."
-          },
-          {
-            "type": "Food",
-            "title": "Taste of Goa 2",
-            "image": "goa_Food_2.jpg",
-            "content": "Savor the authentic flavors of Goan cuisine."
-          },
-          {
-            "type": "Food",
-            "title": "Spicy Delights 3",
-            "image": "goa_Food_3.jpg",
-            "content": "Indulge in the spicy delights of Goan dishes."
-          },
-          {
-            "type": "Food",
-            "title": "SeaFood Extravaganza 4",
-            "image": "goa_Food_4.jpg",
-            "content": "Experience a seaFood extravaganza with Goan specialties."
-          },
-          {
-            "type": "Food",
-            "title": "Goan Fusion 5",
-            "image": "goa_Food_5.jpg",
-            "content": "Try the fusion of traditional and modern Goan cuisine."
-          },
-          {
-            "type": "Food",
-            "title": "Street Food Delights 6",
-            "image": "goa_Food_6.jpg",
-            "content": "Satisfy your taste buds with Goan street Food delights."
-          },
-          {
-            "type": "Food",
-            "title": "Vegetarian Bliss 7",
-            "image": "goa_Food_7.jpg",
-            "content": "Enjoy vegetarian bliss with Goan culinary creations."
-          },
-          {
-            "type": "Food",
-            "title": "Healthy Eats 8",
-            "image": "goa_Food_8.jpg",
-            "content": "Discover healthy and flavorful eats in Goa."
-          },
-          {
-            "type": "Food",
-            "title": "Dessert Delicacies 9",
-            "image": "goa_Food_9.jpg",
-            "content": "Indulge in sweet dessert delicacies from Goa."
-          },
-          {
-            "type": "Food",
-            "title": "Gourmet Goa 10",
-            "image": "goa_Food_10.jpg",
-            "content": "Experience gourmet delights showcasing the best of Goan cuisine."
-          },
-          {
-            "type": "Festivals",
-            "title": "Goa Carnival",
-            "image": "goa_Festivals_1.jpg",
-            "content": "Experience the vibrant and lively Goa Carnival celebration."
-          },
-          {
-            "type": "Festivals",
-            "title": "Shigmo Festivals",
-            "image": "goa_Festivals_2.jpg",
-            "content": "Participate in the colorful and traditional Shigmo Festivals of Goa."
-          },
-          {
-            "type": "Festivals",
-            "title": "Diwali Celebrations",
-            "image": "goa_Festivals_3.jpg",
-            "content": "Celebrate the Festivals of Lights, Diwali, with enthusiasm in Goa."
-          },
-          {
-            "type": "Festivals",
-            "title": "Ganesh Chaturthi",
-            "image": "goa_Festivals_4.jpg",
-            "content": "Witness the grand celebrations of Ganesh Chaturthi in Goa."
-          },
-          {
-            "type": "Festivals",
-            "title": "Christmas in Goa",
-            "image": "goa_Festivals_5.jpg",
-            "content": "Enjoy the festive Christmas atmosphere in the vibrant state of Goa."
-          },
-          {
-            "type": "Festivals",
-            "title": "New Year's Eve",
-            "image": "goa_Festivals_6.jpg",
-            "content": "Welcome the New Year with exciting celebrations in Goa."
-          },
-          {
-            "type": "Festivals",
-            "title": "Shiva Festivals",
-            "image": "goa_Festivals_7.jpg",
-            "content": "Participate in the religious and cultural Shiva Festivals of Goa."
-          },
-          {
-            "type": "Festivals",
-            "title": "Holi Celebration",
-            "image": "goa_Festivals_8.jpg",
-            "content": "Join the vibrant and colorful Holi celebrations in Goa."
-          },
-          {
-            "type": "Festivals",
-            "title": "Gudi Padwa",
-            "image": "goa_Festivals_9.jpg",
-            "content": "Experience the traditional Gudi Padwa Festivals in Goa."
-          },
-          {
-            "type": "Festivals",
-            "title": "Sao Joao Festivals",
-            "image": "goa_Festivals_10.jpg",
-            "content": "Partake in the unique and water-centric Sao Joao Festivals of Goa."
-          },
-          {
-            "type": "Wildlife",
-            "title": "Coastal Wildlife 1",
-            "image": "goa_Wildlife_1.jpg",
-            "content": "Discover scenic coastal Wildlife for a memorable journey in Goa."
-          },
-          {
-            "type": "Wildlife",
-            "title": "Heritage Trails 2",
-            "image": "goa_Wildlife_2.jpg",
-            "content": "Embark on heritage trails to explore Goa's rich history and architecture."
-          },
-          {
-            "type": "Wildlife",
-            "title": "Adventure Paths 3",
-            "image": "goa_Wildlife_3.jpg",
-            "content": "Explore adventurous paths that take you through the heart of Goa's landscapes."
-          },
-          {
-            "type": "Wildlife",
-            "title": "Jungle Expedition 4",
-            "image": "goa_Wildlife_4.jpg",
-            "content": "Embark on a jungle expedition to witness Goa's diverse flora and fauna."
-          },
-          {
-            "type": "Wildlife",
-            "title": "Spiritual Trails 5",
-            "image": "goa_Wildlife_5.jpg",
-            "content": "Follow spiritual trails to serene Place of worship in Goa."
-          },
-          {
-            "type": "Wildlife",
-            "title": "Bike Riding Wildlife 6",
-            "image": "goa_Wildlife_6.jpg",
-            "content": "Enjoy the thrill of bike riding on specially curated Wildlife in Goa."
-          },
-          {
-            "type": "Wildlife",
-            "title": "Beachside Drives 7",
-            "image": "goa_Wildlife_7.jpg",
-            "content": "Experience the beauty of Goa with scenic beachside drives."
-          },
-          {
-            "type": "Wildlife",
-            "title": "Hidden Gems 8",
-            "image": "goa_Wildlife_8.jpg",
-            "content": "Uncover hidden gems and secret spots on offbeat Wildlife in Goa."
-          },
-          {
-            "type": "Wildlife",
-            "title": "River Cruises 9",
-            "image": "goa_Wildlife_9.jpg",
-            "content": "Take delightful river cruises along the picturesque waters of Goa."
-          },
-          {
-            "type": "Wildlife",
-            "title": "Sunset Trails 10",
-            "image": "goa_Wildlife_10.jpg",
-            "content": "Chase stunning sunsets on trails that capture the essence of Goa."
-          },
-          {
-            "type": "Place",
-            "title": "Beaches of Goa 1",
-            "image": "goa_Place_1.jpg",
-            "content": "Relax on the pristine beaches and enjoy the sun-kissed shores of Goa."
-          },
-          {
-            "type": "Place",
-            "title": "Historical Sites 2",
-            "image": "goa_Place_2.jpg",
-            "content": "Visit historical sites that showcase Goa's cultural heritage."
-          },
-          {
-            "type": "Place",
-            "title": "Nightlife Hotspots 3",
-            "image": "goa_Place_3.jpg",
-            "content": "Experience the vibrant nightlife at popular hotspots in Goa."
-          },
-          {
-            "type": "Place",
-            "title": "Nature Retreats 4",
-            "image": "goa_Place_4.jpg",
-            "content": "Immerse yourself in the serene beauty of nature retreats in Goa."
-          },
-          {
-            "type": "Place",
-            "title": "Art and Culture Centers 5",
-            "image": "goa_Place_5.jpg",
-            "content": "Explore art and culture centers that reflect the essence of Goa."
-          },
-          {
-            "type": "Place",
-            "title": "Adventure Hubs 6",
-            "image": "goa_Place_6.jpg",
-            "content": "Discover adventure hubs for thrilling activities in Goa."
-          },
-          {
-            "type": "Place",
-            "title": "Shopping Destinations 7",
-            "image": "goa_Place_7.jpg",
-            "content": "Indulge in shopping at vibrant markets and shopping destinations in Goa."
-          },
-          {
-            "type": "Place",
-            "title": "Waterfront Views 8",
-            "image": "goa_Place_8.jpg",
-            "content": "Enjoy breathtaking waterfront views at scenic locations in Goa."
-          },
-          {
-            "type": "Place",
-            "title": "Culinary Hotspots 9",
-            "image": "goa_Place_9.jpg",
-            "content": "Savor culinary delights at popular hotspots offering diverse cuisines in Goa."
-          },
-          {
-            "type": "Place",
-            "title": "Cultural Festivalss 10",
-            "image": "goa_Place_10.jpg",
-            "content": "Participate in cultural Festivalss that celebrate the spirit of Goa."
-          }
-          
-        ]
-      
-      
-    },
-    "Rajasthan": {
-        "options": [
-          {
-            "type": "Food",
-            "title": "Goan Delight 1",
-            "image": "goa_Food_1.jpg",
-            "content": "Explore the delicious and diverse Goan culinary delights."
-          },
-          {
-            "type": "Food",
-            "title": "Taste of Goa 2",
-            "image": "goa_Food_2.jpg",
-            "content": "Savor the authentic flavors of Goan cuisine."
-          },
-          {
-            "type": "Food",
-            "title": "Spicy Delights 3",
-            "image": "goa_Food_3.jpg",
-            "content": "Indulge in the spicy delights of Goan dishes."
-          },
-          {
-            "type": "Food",
-            "title": "SeaFood Extravaganza 4",
-            "image": "goa_Food_4.jpg",
-            "content": "Experience a seaFood extravaganza with Goan specialties."
-          },
-          {
-            "type": "Food",
-            "title": "Goan Fusion 5",
-            "image": "goa_Food_5.jpg",
-            "content": "Try the fusion of traditional and modern Goan cuisine."
-          },
-          {
-            "type": "Food",
-            "title": "Street Food Delights 6",
-            "image": "goa_Food_6.jpg",
-            "content": "Satisfy your taste buds with Goan street Food delights."
-          },
-          {
-            "type": "Food",
-            "title": "Vegetarian Bliss 7",
-            "image": "goa_Food_7.jpg",
-            "content": "Enjoy vegetarian bliss with Goan culinary creations."
-          },
-          {
-            "type": "Food",
-            "title": "Healthy Eats 8",
-            "image": "goa_Food_8.jpg",
-            "content": "Discover healthy and flavorful eats in Goa."
-          },
-          {
-            "type": "Food",
-            "title": "Dessert Delicacies 9",
-            "image": "goa_Food_9.jpg",
-            "content": "Indulge in sweet dessert delicacies from Goa."
-          },
-          {
-            "type": "Food",
-            "title": "Gourmet Goa 10",
-            "image": "goa_Food_10.jpg",
-            "content": "Experience gourmet delights showcasing the best of Goan cuisine."
-          },
-          {
-            "type": "Festivals",
-            "title": "Goa Carnival",
-            "image": "goa_Festivals_1.jpg",
-            "content": "Experience the vibrant and lively Goa Carnival celebration."
-          },
-          {
-            "type": "Festivals",
-            "title": "Shigmo Festivals",
-            "image": "goa_Festivals_2.jpg",
-            "content": "Participate in the colorful and traditional Shigmo Festivals of Goa."
-          },
-          {
-            "type": "Festivals",
-            "title": "Diwali Celebrations",
-            "image": "goa_Festivals_3.jpg",
-            "content": "Celebrate the Festivals of Lights, Diwali, with enthusiasm in Goa."
-          },
-          {
-            "type": "Festivals",
-            "title": "Ganesh Chaturthi",
-            "image": "goa_Festivals_4.jpg",
-            "content": "Witness the grand celebrations of Ganesh Chaturthi in Goa."
-          },
-          {
-            "type": "Festivals",
-            "title": "Christmas in Goa",
-            "image": "goa_Festivals_5.jpg",
-            "content": "Enjoy the festive Christmas atmosphere in the vibrant state of Goa."
-          },
-          {
-            "type": "Festivals",
-            "title": "New Year's Eve",
-            "image": "goa_Festivals_6.jpg",
-            "content": "Welcome the New Year with exciting celebrations in Goa."
-          },
-          {
-            "type": "Festivals",
-            "title": "Shiva Festivals",
-            "image": "goa_Festivals_7.jpg",
-            "content": "Participate in the religious and cultural Shiva Festivals of Goa."
-          },
-          {
-            "type": "Festivals",
-            "title": "Holi Celebration",
-            "image": "goa_Festivals_8.jpg",
-            "content": "Join the vibrant and colorful Holi celebrations in Goa."
-          },
-          {
-            "type": "Festivals",
-            "title": "Gudi Padwa",
-            "image": "goa_Festivals_9.jpg",
-            "content": "Experience the traditional Gudi Padwa Festivals in Goa."
-          },
-          {
-            "type": "Festivals",
-            "title": "Sao Joao Festivals",
-            "image": "goa_Festivals_10.jpg",
-            "content": "Partake in the unique and water-centric Sao Joao Festivals of Goa."
-          },
-          {
-            "type": "Wildlife",
-            "title": "Coastal Wildlife 1",
-            "image": "goa_Wildlife_1.jpg",
-            "content": "Discover scenic coastal Wildlife for a memorable journey in Goa."
-          },
-          {
-            "type": "Wildlife",
-            "title": "Heritage Trails 2",
-            "image": "goa_Wildlife_2.jpg",
-            "content": "Embark on heritage trails to explore Goa's rich history and architecture."
-          },
-          {
-            "type": "Wildlife",
-            "title": "Adventure Paths 3",
-            "image": "goa_Wildlife_3.jpg",
-            "content": "Explore adventurous paths that take you through the heart of Goa's landscapes."
-          },
-          {
-            "type": "Wildlife",
-            "title": "Jungle Expedition 4",
-            "image": "goa_Wildlife_4.jpg",
-            "content": "Embark on a jungle expedition to witness Goa's diverse flora and fauna."
-          },
-          {
-            "type": "Wildlife",
-            "title": "Spiritual Trails 5",
-            "image": "goa_Wildlife_5.jpg",
-            "content": "Follow spiritual trails to serene Place of worship in Goa."
-          },
-          {
-            "type": "Wildlife",
-            "title": "Bike Riding Wildlife 6",
-            "image": "goa_Wildlife_6.jpg",
-            "content": "Enjoy the thrill of bike riding on specially curated Wildlife in Goa."
-          },
-          {
-            "type": "Wildlife",
-            "title": "Beachside Drives 7",
-            "image": "goa_Wildlife_7.jpg",
-            "content": "Experience the beauty of Goa with scenic beachside drives."
-          },
-          {
-            "type": "Wildlife",
-            "title": "Hidden Gems 8",
-            "image": "goa_Wildlife_8.jpg",
-            "content": "Uncover hidden gems and secret spots on offbeat Wildlife in Goa."
-          },
-          {
-            "type": "Wildlife",
-            "title": "River Cruises 9",
-            "image": "goa_Wildlife_9.jpg",
-            "content": "Take delightful river cruises along the picturesque waters of Goa."
-          },
-          {
-            "type": "Wildlife",
-            "title": "Sunset Trails 10",
-            "image": "goa_Wildlife_10.jpg",
-            "content": "Chase stunning sunsets on trails that capture the essence of Goa."
-          },
-          {
-            "type": "Place",
-            "title": "Beaches of Goa 1",
-            "image": "goa_Place_1.jpg",
-            "content": "Relax on the pristine beaches and enjoy the sun-kissed shores of Goa."
-          },
-          {
-            "type": "Place",
-            "title": "Historical Sites 2",
-            "image": "goa_Place_2.jpg",
-            "content": "Visit historical sites that showcase Goa's cultural heritage."
-          },
-          {
-            "type": "Place",
-            "title": "Nightlife Hotspots 3",
-            "image": "goa_Place_3.jpg",
-            "content": "Experience the vibrant nightlife at popular hotspots in Goa."
-          },
-          {
-            "type": "Place",
-            "title": "Nature Retreats 4",
-            "image": "goa_Place_4.jpg",
-            "content": "Immerse yourself in the serene beauty of nature retreats in Goa."
-          },
-          {
-            "type": "Place",
-            "title": "Art and Culture Centers 5",
-            "image": "goa_Place_5.jpg",
-            "content": "Explore art and culture centers that reflect the essence of Goa."
-          },
-          {
-            "type": "Place",
-            "title": "Adventure Hubs 6",
-            "image": "goa_Place_6.jpg",
-            "content": "Discover adventure hubs for thrilling activities in Goa."
-          },
-          {
-            "type": "Place",
-            "title": "Shopping Destinations 7",
-            "image": "goa_Place_7.jpg",
-            "content": "Indulge in shopping at vibrant markets and shopping destinations in Goa."
-          },
-          {
-            "type": "Place",
-            "title": "Waterfront Views 8",
-            "image": "goa_Place_8.jpg",
-            "content": "Enjoy breathtaking waterfront views at scenic locations in Goa."
-          },
-          {
-            "type": "Place",
-            "title": "Culinary Hotspots 9",
-            "image": "goa_Place_9.jpg",
-            "content": "Savor culinary delights at popular hotspots offering diverse cuisines in Goa."
-          },
-          {
-            "type": "Place",
-            "title": "Cultural Festivalss 10",
-            "image": "goa_Place_10.jpg",
-            "content": "Participate in cultural Festivalss that celebrate the spirit of Goa."
-          }
-          
-        ]
-      
-      
-    },
-    "Tamilnadu": {
-        "options": [
-          {
-            "type": "Food",
-            "title": "Goan Delight 1",
-            "image": "goa_Food_1.jpg",
-            "content": "Explore the delicious and diverse Goan culinary delights."
-          },
-          {
-            "type": "Food",
-            "title": "Taste of Goa 2",
-            "image": "goa_Food_2.jpg",
-            "content": "Savor the authentic flavors of Goan cuisine."
-          },
-          {
-            "type": "Food",
-            "title": "Spicy Delights 3",
-            "image": "goa_Food_3.jpg",
-            "content": "Indulge in the spicy delights of Goan dishes."
-          },
-          {
-            "type": "Food",
-            "title": "SeaFood Extravaganza 4",
-            "image": "goa_Food_4.jpg",
-            "content": "Experience a seaFood extravaganza with Goan specialties."
-          },
-          {
-            "type": "Food",
-            "title": "Goan Fusion 5",
-            "image": "goa_Food_5.jpg",
-            "content": "Try the fusion of traditional and modern Goan cuisine."
-          },
-          {
-            "type": "Food",
-            "title": "Street Food Delights 6",
-            "image": "goa_Food_6.jpg",
-            "content": "Satisfy your taste buds with Goan street Food delights."
-          },
-          {
-            "type": "Food",
-            "title": "Vegetarian Bliss 7",
-            "image": "goa_Food_7.jpg",
-            "content": "Enjoy vegetarian bliss with Goan culinary creations."
-          },
-          {
-            "type": "Food",
-            "title": "Healthy Eats 8",
-            "image": "goa_Food_8.jpg",
-            "content": "Discover healthy and flavorful eats in Goa."
-          },
-          {
-            "type": "Food",
-            "title": "Dessert Delicacies 9",
-            "image": "goa_Food_9.jpg",
-            "content": "Indulge in sweet dessert delicacies from Goa."
-          },
-          {
-            "type": "Food",
-            "title": "Gourmet Goa 10",
-            "image": "goa_Food_10.jpg",
-            "content": "Experience gourmet delights showcasing the best of Goan cuisine."
-          },
-          {
-            "type": "Festivals",
-            "title": "Goa Carnival",
-            "image": "goa_Festivals_1.jpg",
-            "content": "Experience the vibrant and lively Goa Carnival celebration."
-          },
-          {
-            "type": "Festivals",
-            "title": "Shigmo Festivals",
-            "image": "goa_Festivals_2.jpg",
-            "content": "Participate in the colorful and traditional Shigmo Festivals of Goa."
-          },
-          {
-            "type": "Festivals",
-            "title": "Diwali Celebrations",
-            "image": "goa_Festivals_3.jpg",
-            "content": "Celebrate the Festivals of Lights, Diwali, with enthusiasm in Goa."
-          },
-          {
-            "type": "Festivals",
-            "title": "Ganesh Chaturthi",
-            "image": "goa_Festivals_4.jpg",
-            "content": "Witness the grand celebrations of Ganesh Chaturthi in Goa."
-          },
-          {
-            "type": "Festivals",
-            "title": "Christmas in Goa",
-            "image": "goa_Festivals_5.jpg",
-            "content": "Enjoy the festive Christmas atmosphere in the vibrant state of Goa."
-          },
-          {
-            "type": "Festivals",
-            "title": "New Year's Eve",
-            "image": "goa_Festivals_6.jpg",
-            "content": "Welcome the New Year with exciting celebrations in Goa."
-          },
-          {
-            "type": "Festivals",
-            "title": "Shiva Festivals",
-            "image": "goa_Festivals_7.jpg",
-            "content": "Participate in the religious and cultural Shiva Festivals of Goa."
-          },
-          {
-            "type": "Festivals",
-            "title": "Holi Celebration",
-            "image": "goa_Festivals_8.jpg",
-            "content": "Join the vibrant and colorful Holi celebrations in Goa."
-          },
-          {
-            "type": "Festivals",
-            "title": "Gudi Padwa",
-            "image": "goa_Festivals_9.jpg",
-            "content": "Experience the traditional Gudi Padwa Festivals in Goa."
-          },
-          {
-            "type": "Festivals",
-            "title": "Sao Joao Festivals",
-            "image": "goa_Festivals_10.jpg",
-            "content": "Partake in the unique and water-centric Sao Joao Festivals of Goa."
-          },
-          {
-            "type": "Wildlife",
-            "title": "Coastal Wildlife 1",
-            "image": "goa_Wildlife_1.jpg",
-            "content": "Discover scenic coastal Wildlife for a memorable journey in Goa."
-          },
-          {
-            "type": "Wildlife",
-            "title": "Heritage Trails 2",
-            "image": "goa_Wildlife_2.jpg",
-            "content": "Embark on heritage trails to explore Goa's rich history and architecture."
-          },
-          {
-            "type": "Wildlife",
-            "title": "Adventure Paths 3",
-            "image": "goa_Wildlife_3.jpg",
-            "content": "Explore adventurous paths that take you through the heart of Goa's landscapes."
-          },
-          {
-            "type": "Wildlife",
-            "title": "Jungle Expedition 4",
-            "image": "goa_Wildlife_4.jpg",
-            "content": "Embark on a jungle expedition to witness Goa's diverse flora and fauna."
-          },
-          {
-            "type": "Wildlife",
-            "title": "Spiritual Trails 5",
-            "image": "goa_Wildlife_5.jpg",
-            "content": "Follow spiritual trails to serene Place of worship in Goa."
-          },
-          {
-            "type": "Wildlife",
-            "title": "Bike Riding Wildlife 6",
-            "image": "goa_Wildlife_6.jpg",
-            "content": "Enjoy the thrill of bike riding on specially curated Wildlife in Goa."
-          },
-          {
-            "type": "Wildlife",
-            "title": "Beachside Drives 7",
-            "image": "goa_Wildlife_7.jpg",
-            "content": "Experience the beauty of Goa with scenic beachside drives."
-          },
-          {
-            "type": "Wildlife",
-            "title": "Hidden Gems 8",
-            "image": "goa_Wildlife_8.jpg",
-            "content": "Uncover hidden gems and secret spots on offbeat Wildlife in Goa."
-          },
-          {
-            "type": "Wildlife",
-            "title": "River Cruises 9",
-            "image": "goa_Wildlife_9.jpg",
-            "content": "Take delightful river cruises along the picturesque waters of Goa."
-          },
-          {
-            "type": "Wildlife",
-            "title": "Sunset Trails 10",
-            "image": "goa_Wildlife_10.jpg",
-            "content": "Chase stunning sunsets on trails that capture the essence of Goa."
-          },
-          {
-            "type": "Place",
-            "title": "Beaches of Goa 1",
-            "image": "goa_Place_1.jpg",
-            "content": "Relax on the pristine beaches and enjoy the sun-kissed shores of Goa."
-          },
-          {
-            "type": "Place",
-            "title": "Historical Sites 2",
-            "image": "goa_Place_2.jpg",
-            "content": "Visit historical sites that showcase Goa's cultural heritage."
-          },
-          {
-            "type": "Place",
-            "title": "Nightlife Hotspots 3",
-            "image": "goa_Place_3.jpg",
-            "content": "Experience the vibrant nightlife at popular hotspots in Goa."
-          },
-          {
-            "type": "Place",
-            "title": "Nature Retreats 4",
-            "image": "goa_Place_4.jpg",
-            "content": "Immerse yourself in the serene beauty of nature retreats in Goa."
-          },
-          {
-            "type": "Place",
-            "title": "Art and Culture Centers 5",
-            "image": "goa_Place_5.jpg",
-            "content": "Explore art and culture centers that reflect the essence of Goa."
-          },
-          {
-            "type": "Place",
-            "title": "Adventure Hubs 6",
-            "image": "goa_Place_6.jpg",
-            "content": "Discover adventure hubs for thrilling activities in Goa."
-          },
-          {
-            "type": "Place",
-            "title": "Shopping Destinations 7",
-            "image": "goa_Place_7.jpg",
-            "content": "Indulge in shopping at vibrant markets and shopping destinations in Goa."
-          },
-          {
-            "type": "Place",
-            "title": "Waterfront Views 8",
-            "image": "goa_Place_8.jpg",
-            "content": "Enjoy breathtaking waterfront views at scenic locations in Goa."
-          },
-          {
-            "type": "Place",
-            "title": "Culinary Hotspots 9",
-            "image": "goa_Place_9.jpg",
-            "content": "Savor culinary delights at popular hotspots offering diverse cuisines in Goa."
-          },
-          {
-            "type": "Place",
-            "title": "Cultural Festivalss 10",
-            "image": "goa_Place_10.jpg",
-            "content": "Participate in cultural Festivalss that celebrate the spirit of Goa."
-          }
-          
-        ]
-      
-      
-    },
+          "options": [
+              {
+                  "type": "Food",
+                  "title": "Appam",
+                  "image": "/images/states/Kerala/Food/f-11",
+                  "content": "Soft and lacy pancakes, a staple in Kerala cuisine."
+              },
+              {
+                  "type": "Food",
+                  "title": "Puttu",
+                  "image": "/images/states/Kerala/Food/f-2",
+                  "content": "Steamed rice cylinders served with grated coconut, a popular breakfast dish."
+              },
+              {
+                  "type": "Food",
+                  "title": "Idiyappam",
+                  "image": "/images/states/Kerala/Food/f-3",
+                  "content": "String hoppers made from rice flour, often paired with curry."
+              },
+              {
+                  "type": "Food",
+                  "title": "Kerala Sadya",
+                  "image": "/images/states/Kerala/Food/f-4",
+                  "content": "A traditional feast featuring an array of dishes served on a banana leaf."
+              },
+              {
+                  "type": "Food",
+                  "title": "Karimeen Pollichathu",
+                  "image": "/images/states/Kerala/Food/f-5",
+                  "content": "Pearl spot fish marinated and wrapped in banana leaves, a flavorful delicacy."
+              },
+              {
+                  "type": "Food",
+                  "title": "Thalassery Biriyani",
+                  "image": "/images/states/Kerala/Food/f-6",
+                  "content": "Aromatic and flavorful biryani with unique spices, originating from Thalassery."
+              },
+              {
+                  "type": "Food",
+                  "title": "Erissery",
+                  "image": "/images/states/Kerala/Food/f-7",
+                  "content": "A traditional dish made with pumpkin, beans, and a coconut-based gravy."
+              },
+              {
+                  "type": "Food",
+                  "title": "Pazham Pori",
+                  "image": "/images/states/Kerala/Food/f-8",
+                  "content": "Deep-fried banana fritters, a popular snack in Kerala."
+              },
+              {
+                  "type": "Food",
+                  "title": "Kappa (Tapioca) and Meen Curry",
+                  "image": "/images/states/Kerala/Food/f-9",
+                  "content": "Tapioca served with spicy fish curry, a classic Kerala combination."
+              },
+              {
+                  "type": "Food",
+                  "title": "Parippu Curry",
+                  "image": "/images/states/Kerala/Food/f-10",
+                  "content": "A lentil curry with coconut, usually served as part of a Kerala meal."
+              },
+              {
+                  "type": "Festivals",
+                  "title": "Onam",
+                  "image": "/images/states/Kerala/Festival/fs-1",
+                  "content": "The harvest festival celebrated with grand feasts, floral decorations, and traditional dance."
+              },
+              {
+                  "type": "Festivals",
+                  "title": "Thrissur Pooram",
+                  "image": "/images/states/Kerala/Festival/fs-2",
+                  "content": "A vibrant and elaborate temple festival featuring colorful processions and fireworks."
+              },
+              {
+                  "type": "Festivals",
+                  "title": "Vishu",
+                  "image": "/images/states/Kerala/Festival/fs-3",
+                  "content": "The New Year festival marked by the Vishu Kani, a special arrangement of auspicious items."
+              },
+              {
+                  "type": "Festivals",
+                  "title": "Attukal Pongala",
+                  "image": "/images/states/Kerala/Festival/fs-4",
+                  "content": "An annual gathering of women to offer Pongala (a sweet dish) at the Attukal Bhagavathy Temple."
+              },
+              {
+                  "type": "Festivals",
+                  "title": "Nehru Trophy Boat Race",
+                  "image": "/images/states/Kerala/Festival/fs-55",
+                  "content": "A famous boat race held in the Punnamada Lake in Alappuzha during the Onam festival."
+              },
+              {
+                  "type": "Festivals",
+                  "title": "Theyyam",
+                  "image": "/images/states/Kerala/Festival/fs-6",
+                  "content": "A unique ritualistic dance form performed in North Malabar region, showcasing vibrant costumes and elaborate makeup."
+              },
+              {
+                  "type": "Festivals",
+                  "title": "Aranmula Boat Race",
+                  "image": "/images/states/Kerala/Festival/fs-7",
+                  "content": "A traditional snake boat race held during the Onam festival in the village of Aranmula."
+              },
+              {
+                  "type": "Festivals",
+                  "title": "Pulikali",
+                  "image": "/images/states/Kerala/Festival/fs-8",
+                  "content": "A colorful folk art where performers painted as tigers dance through the streets during Onam."
+              },
+              {
+                  "type": "Festivals",
+                  "title": "Thiruvathira",
+                  "image": "/images/states/Kerala/Festival/fs-9",
+                  "content": "A traditional dance and worship performed by women during the Thiruvathira festival."
+              },
+              {
+                  "type": "Festivals",
+                  "title": "Kottakkal Pooram",
+                  "image": "/images/states/Kerala/Festival/fs-10",
+                  "content": "A grand temple festival featuring processions, traditional music, and cultural events."
+              },
+              {
+                  "type": "Place",
+                  "title": "Munnar",
+                  "image": "/images/states/Kerala/Places/munnar.jpg",
+                  "content": "A picturesque hill station known for its tea plantations, lush greenery, and cool climate."
+              },
+              {
+                  "type": "Place",
+                  "title": "Alleppey",
+                  "image": "/images/states/Kerala/Places/alleppey.jpg",
+                  "content": "Famous for its backwaters, houseboats, and serene landscapes, offering a unique Kerala experience."
+              },
+              {
+                  "type": "Place",
+                  "title": "Kochi",
+                  "image": "/images/states/Kerala/Places/kochi.jpg",
+                  "content": "A vibrant city with a blend of modernity and history, featuring the iconic Chinese fishing nets."
+              },
+              {
+                  "type": "Place",
+                  "title": "Thiruvananthapuram",
+                  "image": "/images/states/Kerala/Places/thiruvananthapuram.jpg",
+                  "content": "The capital city known for its historic landmarks, museums, and the iconic Padmanabhaswamy Temple."
+              },
+              {
+                  "type": "Place",
+                  "title": "Wayanad",
+                  "image": "/images/states/Kerala/Places/wayanad.jpg",
+                  "content": "A lush green district with wildlife, waterfalls, and trekking trails, perfect for nature enthusiasts."
+              },
+              {
+                  "type": "Place",
+                  "title": "Kovalam",
+                  "image": "/images/states/Kerala/Places/kovalam.jpg",
+                  "content": "A popular beach destination with golden sands, clear waters, and a relaxed atmosphere."
+              },
+              {
+                  "type": "Place",
+                  "title": "Thekkady",
+                  "image": "/images/states/Kerala/Places/thekkady.jpg",
+                  "content": "Home to Periyar National Park, offering wildlife safaris and boat rides in a scenic environment."
+              },
+              {
+                  "type": "Place",
+                  "title": "Varkala",
+                  "image": "/images/states/Kerala/Places/varkala.jpg",
+                  "content": "A coastal town known for its cliffs, mineral springs, and the famous Varkala Beach."
+              },
+              {
+                  "type": "Place",
+                  "title": "Kumarakom",
+                  "image": "/images/states/Kerala/Places/kumarakom.jpg",
+                  "content": "A backwater destination with houseboats, bird sanctuaries, and a tranquil ambiance."
+              },
+              {
+                  "type": "Place",
+                  "title": "Fort Kochi",
+                  "image": "/images/states/Kerala/Places/fort_kochi.jpg",
+                  "content": "A historic area with colonial architecture, art galleries, and the iconic Chinese fishing nets."
+              },
+              {
+                  "type": "Wildlife",
+                  "title": "Indian Elephant",
+                  "content": "Majestic Indian Elephants, a common sight in Kerala's wildlife sanctuaries.",
+                  "image": "/images/states/Kerala/Wildlife/indian_elephant.jpg"
+              },
+              {
+                  "type": "Wildlife",
+                  "title": "Bengal Tiger",
+                  "content": "The elusive Bengal Tiger, a symbol of India's diverse and rich wildlife.",
+                  "image": "/images/states/Kerala/Wildlife/bengal_tiger.jpg"
+              },
+              {
+                  "type": "Wildlife",
+                  "title": "Indian Gaur",
+                  "content": "Powerful Indian Gaur, the largest extant bovine, found in Kerala's forests.",
+                  "image": "/images/states/Kerala/Wildlife/indian_gaur.jpg"
+              },
+              {
+                  "type": "Wildlife",
+                  "title": "Sambar Deer",
+                  "content": "Graceful Sambar Deer, with their impressive antlers, add to the charm of Kerala's wildlife.",
+                  "image": "/images/states/Kerala/Wildlife/sambar_deer.jpg"
+              },
+              {
+                  "type": "Wildlife",
+                  "title": "Nilgiri Tahr",
+                  "content": "Endangered Nilgiri Tahr, a mountain goat species, can be found in the Nilgiri Hills of Kerala.",
+                  "image": "/images/states/Kerala/Wildlife/nilgiri_tahr.jpg"
+              },
+              {
+                  "type": "Wildlife",
+                  "title": "Lion-tailed Macaque",
+                  "content": "The Lion-tailed Macaque, an endangered primate, inhabits the Western Ghats of Kerala.",
+                  "image": "/images/states/Kerala/Wildlife/lion_tailed_macaque.jpg"
+              },
+              {
+                  "type": "Wildlife",
+                  "title": "Indian Giant Squirrel",
+                  "content": "The vibrant Indian Giant Squirrel adds color to Kerala's forests with its striking fur.",
+                  "image": "/images/states/Kerala/Wildlife/indian_giant_squirrel.jpg"
+              },
+              {
+                  "type": "Wildlife",
+                  "title": "Indian Pangolin",
+                  "content": "The elusive Indian Pangolin, with its unique scales, is a rare sighting in Kerala's wilderness.",
+                  "image": "/images/states/Kerala/Wildlife/indian_pangolin.jpg"
+              },
+              {
+                  "type": "Wildlife",
+                  "title": "Malabar Civet",
+                  "content": "The Malabar Civet, a nocturnal mammal, is one of the lesser-known species found in Kerala.",
+                  "image": "/images/states/Kerala/Wildlife/malabar_civet.jpg"
+              },
+              {
+                  "type": "Wildlife",
+                  "title": "Great Hornbill",
+                  "content": "The majestic Great Hornbill, with its distinctive beak, is a symbol of Kerala's rich avian biodiversity.",
+                  "image": "/images/states/Kerala/Wildlife/great_hornbill.jpg"
+              }
+          ]
+      },
+        "Rajasthan": {
+            "options": [
+                {
+                    "type": "Food",
+                    "title": "Dal Baati Churma",
+                    "image": "/images/states/Rajasthan/Food/dal_baati_churma.jpg",
+                    "content": "A traditional Rajasthani dish featuring baked wheat balls (baati) served with lentils (dal) and a sweet crumbly mixture (churma)."
+                },
+                {
+                    "type": "Food",
+                    "title": "Gatte ki Sabzi",
+                    "image": "/images/states/Rajasthan/Food/gatte_ki_sabzi.jpg",
+                    "content": "Gatte (gram flour dumplings) cooked in a spiced yogurt-based curry, a flavorful Rajasthani delicacy."
+                },
+                {
+                    "type": "Food",
+                    "title": "Ker Sangri",
+                    "image": "/images/states/Rajasthan/Food/ker_sangri.jpg",
+                    "content": "A traditional Rajasthani dish made with dried berries (ker) and beans (sangri), cooked in a spicy and tangy gravy."
+                },
+                {
+                    "type": "Food",
+                    "title": "Laal Maas",
+                    "image": "/images/states/Rajasthan/Food/laal_maas.jpg",
+                    "content": "Laal Maas is a fiery Rajasthani meat curry, known for its vibrant red color and robust flavors."
+                },
+                {
+                    "type": "Food",
+                    "title": "Mohan Maas",
+                    "image": "/images/states/Rajasthan/Food/mohan_maas.jpg",
+                    "content": "Mohan Maas is a rich and indulgent Rajasthani meat curry, often prepared for special occasions."
+                },
+                {
+                    "type": "Food",
+                    "title": "Rajasthani Kadhi",
+                    "image": "/images/states/Rajasthan/Food/rajasthani_kadhi.jpg",
+                    "content": "A yogurt-based curry with gram flour dumplings, a popular comfort food in Rajasthan."
+                },
+                {
+                    "type": "Food",
+                    "title": "Pyaaz Kachori",
+                    "image": "/images/states/Rajasthan/Food/pyaaz_kachori.jpg",
+                    "content": "Deep-fried pastries filled with spiced onion mixture, a popular snack in Rajasthan."
+                },
+                {
+                    "type": "Food",
+                    "title": "Mirchi Vada",
+                    "image": "/images/states/Rajasthan/Food/mirchi_vada.jpg",
+                    "content": "Spicy green chilies stuffed with a potato mixture, coated in gram flour batter, and deep-fried."
+                },
+                {
+                    "type": "Food",
+                    "title": "Mawa Kachori",
+                    "image": "/images/states/Rajasthan/Food/mawa_kachori.jpg",
+                    "content": "Sweet and indulgent pastries filled with a mixture of khoya (mawa), nuts, and sugar."
+                },
+                {
+                    "type": "Food",
+                    "title": "Rabri",
+                    "image": "/images/states/Rajasthan/Food/rabri.jpg",
+                    "content": "A rich and creamy dessert made by condensing sweetened milk, flavored with cardamom and garnished with nuts."
+                },
+                {
+                    "type": "Festivals",
+                    "title": "Diwali",
+                    "image": "/images/states/Rajasthan/Festivals/diwali.jpg",
+                    "content": "The festival of lights celebrated with diyas, decorations, and traditional sweets, marking the victory of light over darkness."
+                },
+                {
+                    "type": "Festivals",
+                    "title": "Holi",
+                    "image": "/images/states/Rajasthan/Festivals/holi.jpg",
+                    "content": "The colorful festival of Holi is celebrated with enthusiasm, featuring vibrant powders, music, and joyous celebrations."
+                },
+                {
+                    "type": "Festivals",
+                    "title": "Pushkar Camel Fair",
+                    "image": "/images/states/Rajasthan/Festivals/pushkar_camel_fair.jpg",
+                    "content": "A famous annual fair in Pushkar, known for its camel trading, cultural events, and religious significance."
+                },
+                {
+                    "type": "Festivals",
+                    "title": "Gangaur Festival",
+                    "image": "/images/states/Rajasthan/Festivals/gangaur.jpg",
+                    "content": "Dedicated to Goddess Gauri, this colorful festival involves traditional rituals and vibrant processions."
+                },
+                {
+                    "type": "Festivals",
+                    "title": "Teej",
+                    "image": "/images/states/Rajasthan/Festivals/teej.jpg",
+                    "content": "Teej is a monsoon festival celebrated with traditional dances, swings, and processions in honor of Goddess Parvati."
+                },
+                {
+                    "type": "Festivals",
+                    "title": "Desert Festival",
+                    "image": "/images/states/Rajasthan/Festivals/desert_festival.jpg",
+                    "content": "A cultural extravaganza in Jaisalmer showcasing traditional music, dance, camel races, and more."
+                },
+                {
+                    "type": "Festivals",
+                    "title": "Kite Festival",
+                    "image": "/images/states/Rajasthan/Festivals/kite_festival.jpg",
+                    "content": "Makar Sankranti is celebrated with kite flying competitions, adding colorful patterns to the sky."
+                },
+                {
+                    "type": "Festivals",
+                    "title": "Mewar Festival",
+                    "image": "/images/states/Rajasthan/Festivals/mewar_festival.jpg",
+                    "content": "A spring festival celebrated in Udaipur with processions, cultural events, and traditional performances."
+                },
+                {
+                    "type": "Festivals",
+                    "title": "Marwar Festival",
+                    "image": "/images/states/Rajasthan/Festivals/marwar_festival.jpg",
+                    "content": "A celebration of the Marwar region's music and dance traditions, featuring folk performances and cultural events."
+                },
+                {
+                    "type": "Festivals",
+                    "title": "Elephant Festival",
+                    "image": "/images/states/Rajasthan/Festivals/elephant_festival.jpg",
+                    "content": "A unique festival in Jaipur showcasing decorated elephants, cultural performances, and processions."
+                },
+                {
+                    "type": "Place",
+                    "title": "Jaipur",
+                    "image": "/images/states/Rajasthan/Places/jaipur.jpg",
+                    "content": "Known as the 'Pink City,' Jaipur is famous for its historic forts, palaces, and vibrant markets."
+                },
+                {
+                    "type": "Place",
+                    "title": "Udaipur",
+                    "image": "/images/states/Rajasthan/Places/udaipur.jpg",
+                    "content": "The 'City of Lakes,' Udaipur is renowned for its picturesque lakes, palaces, and romantic ambiance."
+                },
+                {
+                    "type": "Place",
+                    "title": "Jodhpur",
+                    "image": "/images/states/Rajasthan/Places/jodhpur.jpg",
+                    "content": "Known as the 'Blue City,' Jodhpur features stunning blue-painted houses and the majestic Mehrangarh Fort."
+                },
+                {
+                    "type": "Place",
+                    "title": "Ajmer",
+                    "image": "/images/states/Rajasthan/Places/ajmer.jpg",
+                    "content": "Home to the famous Ajmer Sharif Dargah, Ajmer is a pilgrimage destination with historical significance."
+                },
+                {
+                    "type": "Place",
+                    "title": "Pushkar",
+                    "image": "/images/states/Rajasthan/Places/pushkar.jpg",
+                    "content": "Known for the sacred Pushkar Lake and the Brahma Temple, Pushkar is a significant pilgrimage site."
+                },
+                {
+                    "type": "Place",
+                    "title": "Mount Abu",
+                    "image": "/images/states/Rajasthan/Places/mount_abu.jpg",
+                    "content": "The only hill station in Rajasthan, Mount Abu offers a cool climate, scenic landscapes, and the Dilwara Temples."
+                },
+                {
+                    "type": "Place",
+                    "title": "Bikaner",
+                    "image": "/images/states/Rajasthan/Places/bikaner.jpg",
+                    "content": "Known for its well-preserved forts and the Karni Mata Temple, Bikaner is a city with a rich cultural heritage."
+                },
+                {
+                    "type": "Place",
+                    "title": "Ranthambore",
+                    "image": "/images/states/Rajasthan/Places/ranthambore.jpg",
+                    "content": "Famous for Ranthambore National Park, this region offers opportunities to spot Bengal tigers in the wild."
+                },
+                {
+                    "type": "Place",
+                    "title": "Chittorgarh",
+                    "image": "/images/states/Rajasthan/Places/chittorgarh.jpg",
+                    "content": "Home to the historic Chittorgarh Fort, this city showcases Rajput architecture and tales of valor."
+                },
+                {
+                    "type": "Place",
+                    "title": "Alwar",
+                    "image": "/images/states/Rajasthan/Places/alwar.jpg",
+                    "content": "Known for its forts, palaces, and the Sariska Tiger Reserve, Alwar is a blend of history and nature."
+                },
+                {
+                    "type": "Wildlife",
+                    "title": "Bengal Tiger",
+                    "content": "The majestic Bengal Tiger, India's national animal, can be spotted in Rajasthan's wildlife reserves."
+                },
+                {
+                    "type": "Wildlife",
+                    "title": "Indian Elephant",
+                    "content": "Gentle Indian Elephants, often seen in wildlife sanctuaries, contribute to the rich biodiversity of Rajasthan."
+                },
+                {
+                    "type": "Wildlife",
+                    "title": "Indian Leopard",
+                    "image": "/images/states/Rajasthan/Wildlife/indian_leopard.jpg",
+                    "content": "The elusive Indian Leopard adds to the thrill of wildlife safaris in Rajasthan's national parks."
+                },
+                {
+                    "type": "Wildlife",
+                    "title": "Indian Rhinoceros",
+                    "image": "/images/states/Rajasthan/Wildlife/indian_rhinoceros.jpg",
+                    "content": "Rajasthan is home to the Indian Rhinoceros, a majestic species found in select wildlife sanctuaries."
+                },
+                {
+                    "type": "Wildlife",
+                    "title": "Blackbuck",
+                    "content": "Graceful Blackbucks, known for their elegant appearance, roam freely in the grasslands of Rajasthan."
+                },
+                {
+                    "type": "Wildlife",
+                    "title": "Sarus Crane",
+                    "image": "/images/states/Rajasthan/Wildlife/sarus_crane.jpg",
+                    "content": "The Sarus Crane, the world's tallest flying bird, can be spotted in wetlands and grasslands of Rajasthan."
+                },
+                {
+                    "type": "Wildlife",
+                    "title": "Great Indian Bustard",
+                    "content": "The Great Indian Bustard, a critically endangered bird, inhabits the semi-arid regions of Rajasthan."
+                },
+                {
+                    "type": "Wildlife",
+                    "title": "Chinkara",
+                    "content": "The Chinkara, a graceful gazelle species, adds to the charm of Rajasthan's wildlife."
+                },
+                {
+                    "type": "Wildlife",
+                    "title": "Desert Fox",
+                    "content": "The Desert Fox, adapted to arid environments, is a fascinating resident of Rajasthan's deserts."
+                },
+                {
+                    "type": "Wildlife",
+                    "title": "Indian Gazelle",
+                    "content": "The Indian Gazelle, also known as Chinkara, is a common sight in the open grasslands of Rajasthan."
+                }
+            ]
+        },
+    
+        "Tamilnadu": {
+          "options": [
+            {
+              "type": "Food",
+              "title": "Chettinad Cuisine",
+              "image": "chettinad_cuisine.jpg",
+              "content": "Explore the rich and spicy flavors of Chettinad cuisine."
+            },
+            {
+              "type": "Food",
+              "title": "Masala Dosa",
+              "image": "masala_dosa.jpg",
+              "content": "Savor the popular South Indian dish, Masala Dosa, with delicious potato filling."
+            },
+            {
+              "type": "Food",
+              "title": "Idli",
+              "image": "idli.jpg",
+              "content": "Enjoy the steamed rice cakes, Idli, served with coconut chutney and sambar."
+            },
+            {
+              "type": "Food",
+              "title": "Sambar",
+              "image": "sambar.jpg",
+              "content": "Indulge in the flavorful and tangy South Indian lentil soup, Sambar."
+            },
+            {
+              "type": "Food",
+              "title": "Pongal",
+              "image": "pongal.jpg",
+              "content": "Experience the traditional harvest festival dish, Pongal."
+            },
+            {
+              "type": "Food",
+              "title": "Jigarthanda",
+              "image": "jigarthanda.jpg",
+              "content": "Cool off with the refreshing and unique Jigarthanda beverage."
+            },
+            {
+              "type": "Food",
+              "title": "Banana Leaf Meals",
+              "image": "banana_leaf_meals.jpg",
+              "content": "Delight in a sumptuous meal served on a banana leaf, a traditional culinary experience."
+            },
+            {
+              "type": "Food",
+              "title": "Murukku",
+              "image": "murukku.jpg",
+              "content": "Enjoy the crunchy and savory Murukku, a popular South Indian snack."
+            },
+            {
+              "type": "Food",
+              "title": "Filter Coffee",
+              "image": "filter_coffee.jpg",
+              "content": "Sip on the aromatic and strong Filter Coffee, a South Indian coffee specialty."
+            },
+            {
+              "type": "Food",
+              "title": "Madurai Jigarthanda",
+              "image": "madurai_jigarthanda.jpg",
+              "content": "Indulge in the famous dessert beverage, Madurai Jigarthanda, from the city of Madurai."
+            },
+            {
+              "type": "Festivals",
+              "title": "Pongal",
+              "image": "pongal_festival.jpg",
+              "content": "Celebrate the harvest festival of Pongal with traditional rituals and festivities."
+            },
+            {
+              "type": "Festivals",
+              "title": "Jallikattu",
+              "image": "jallikattu.jpg",
+              "content": "Experience the traditional bull-taming sport, Jallikattu, during the Pongal festival."
+            },
+            {
+              "type": "Festivals",
+              "title": "Natyanjali Dance Festival",
+              "image": "natyanjali_dance_festival.jpg",
+              "content": "Witness the vibrant Natyanjali Dance Festival, celebrating classical dance forms."
+            },
+            {
+              "type": "Festivals",
+              "title": "Karthigai Deepam",
+              "image": "karthigai_deepam.jpg",
+              "content": "Participate in the grand festival of lights, Karthigai Deepam."
+            },
+            {
+              "type": "Festivals",
+              "title": "Mahamaham Festival",
+              "image": "mahamaham_festival.jpg",
+              "content": "Take part in the auspicious Mahamaham Festival, celebrated every 12 years."
+            },
+            {
+              "type": "Festivals",
+              "title": "Chithirai Festival",
+              "image": "chithirai_festival.jpg",
+              "content": "Experience the colorful Chithirai Festival, featuring processions and cultural events."
+            },
+            {
+              "type": "Festivals",
+              "title": "Aadi Perukku",
+              "image": "aadi_perukku.jpg",
+              "content": "Celebrate the Aadi Perukku festival with prayers and riverbank festivities."
+            },
+            {
+              "type": "Festivals",
+              "title": "Thai Poosam",
+              "image": "thai_poosam.jpg",
+              "content": "Participate in the religious Thai Poosam festival dedicated to Lord Murugan."
+            },
+            {
+              "type": "Festivals",
+              "title": "Navaratri",
+              "image": "navaratri.jpg",
+              "content": "Join the vibrant Navaratri celebrations with music, dance, and religious observances."
+            },
+            {
+              "type": "Festivals",
+              "title": "Diwali",
+              "image": "diwali.jpg",
+              "content": "Experience the Festival of Lights, Diwali, with joyous celebrations and colorful lights."
+            },
+            {
+              "type": "Place",
+              "title": "Meenakshi Amman Temple",
+              "image": "meenakshi_amman_temple.jpg",
+              "content": "Visit the iconic Meenakshi Amman Temple, a masterpiece of Dravidian architecture."
+            },
+            {
+              "type": "Place",
+              "title": "Ooty",
+              "image": "ooty.jpg",
+              "content": "Explore the picturesque hill station of Ooty, known for its lush green landscapes."
+            },
+            {
+              "type": "Place",
+              "title": "Mahabalipuram",
+              "image": "mahabalipuram.jpg",
+              "content": "Discover the historical and UNESCO World Heritage site of Mahabalipuram."
+            },
+            {
+              "type": "Place",
+              "title": "Rameswaram",
+              "image": "rameswaram.jpg",
+              "content": "Visit the sacred island of Rameswaram, known for its temples and religious significance."
+            },
+            {
+              "type": "Place",
+              "title": "Kodaikanal",
+              "image": "kodaikanal.jpg",
+              "content": "Experience the serene beauty of Kodaikanal, a charming hill station."
+            },
+            {
+              "type": "Place",
+              "title": "Kanyakumari",
+              "image": "kanyakumari.jpg",
+              "content": "Witness the confluence of three oceans at Kanyakumari and enjoy stunning sunsets."
+            },
+            {
+              "type": "Place",
+              "title": "Thanjavur Brihadeeswarar Temple",
+              "image": "thanjavur_brihadeeswarar_temple.jpg",
+              "content": "Marvel at the architectural grandeur of the Brihadeeswarar Temple in Thanjavur."
+            },
+            {
+              "type": "Place",
+              "title": "Nilgiri Biosphere Reserve",
+              "image": "nilgiri_biosphere_reserve.jpg",
+              "content": "Explore the biodiversity of the Nilgiri Biosphere Reserve, a UNESCO-designated area."
+            },
+            {
+              "type": "Place",
+              "title": "Dhanushkodi",
+              "image": "dhanushkodi.jpg",
+              "content": "Visit the ghost town of Dhanushkodi, located at the tip of Rameswaram."
+            },
+            {
+              "type": "Place",
+              "title": "Valluvar Kottam",
+              "image": "valluvar_kottam.jpg",
+              "content": "Pay homage to the great Tamil poet Valluvar at Valluvar Kottam in Chennai."
+            },
+            {
+              "type": "Wildlife",
+              "title": "Mudumalai National Park",
+              "image": "mudumalai_national_park.jpg",
+              "content": "Discover diverse wildlife at Mudumalai National Park, a haven for nature enthusiasts."
+            },
+            {
+              "type": "Wildlife",
+              "title": "Indira Gandhi Wildlife Sanctuary",
+              "image": "indira_gandhi_wildlife_sanctuary.jpg",
+              "content": "Explore the rich biodiversity of Indira Gandhi Wildlife Sanctuary in the Western Ghats."
+            },
+            {
+              "type": "Wildlife",
+              "title": "Guindy National Park",
+              "image": "guindy_national_park.jpg",
+              "content": "Experience nature in the heart of Chennai at Guindy National Park."
+            },
+            {
+              "type": "Wildlife",
+              "title": "Vedanthangal Bird Sanctuary",
+              "image": "vedanthangal_bird_sanctuary.jpg",
+              "content": "Witness a multitude of migratory birds at Vedanthangal Bird Sanctuary."
+            },
+            {
+              "type": "Wildlife",
+              "title": "Annamalai Tiger Reserve",
+              "image": "annamalai_tiger_reserve.jpg",
+              "content": "Explore the habitats of majestic tigers at Annamalai Tiger Reserve."
+            },
+            {
+              "type": "Wildlife",
+              "title": "Gulf of Mannar Marine National Park",
+              "image": "gulf_of_mannar_marine_national_park.jpg",
+              "content": "Discover marine biodiversity at the Gulf of Mannar Marine National Park."
+            },
+            {
+              "type": "Wildlife",
+              "title": "Point Calimere Wildlife Sanctuary",
+              "image": "point_calimere_wildlife_sanctuary.jpg",
+              "content": "Experience birdwatching and wildlife at Point Calimere Wildlife Sanctuary."
+            },
+            {
+              "type": "Wildlife",
+              "title": "Kalakkad Mundanthurai Tiger Reserve",
+              "image": "kalakkad_mundanthurai_tiger_reserve.jpg",
+              "content": "Explore the biodiversity of Kalakkad Mundanthurai Tiger Reserve in the Western Ghats."
+            },
+            {
+              "type": "Wildlife",
+              "title": "Viralimalai Wildlife Sanctuary",
+              "image": "viralimalai_wildlife_sanctuary.jpg",
+              "content": "Discover the diverse flora and fauna at Viralimalai Wildlife Sanctuary."
+            },
+            {
+              "type": "Wildlife",
+              "title": "Sathyamangalam Wildlife Sanctuary",
+              "image": "sathyamangalam_wildlife_sanctuary.jpg",
+              "content": "Explore the scenic landscapes and wildlife at Sathyamangalam Wildlife Sanctuary."
+            }
+          ]
+        
+        },
     "Sikkim": {
         "options": [
           {
@@ -1298,55 +1284,61 @@
             "content": "Delight in Fing, a flavorful and nutritious dish made with ferns, popular in the northeastern culinary repertoire."
           },
           {
-            "type": "Festival",
+            "type": "Festivals",
             "title": "Losar",
             "image": "festival_Losar.jpg",
             "content": "Celebrate Losar, the Tibetan New Year, with vibrant festivities, cultural performances, and traditional rituals."
           },
           {
-            "type": "Festival",
+            "type": "Festivals",
             "title": "Saga Dawa",
             "image": "festival_SagaDawa.jpg",
             "content": "Participate in the spiritual observances of Saga Dawa, a significant Tibetan Buddhist festival commemorating Buddha's birth, enlightenment, and death."
           },
           {
-            "type": "Festival",
+            "type": "Festivals",
             "title": "Bumchu",
             "image": "festival_Bumchu.jpg",
             "content": "Experience the unique Bumchu festival, marked by the sacred ceremony of predicting the future with the Bum jar in the Tashiding Monastery."
           },
           {
-            "type": "Festival",
+            "type": "Festivals",
             "title": "Dashain",
             "image": "festival_Dashain.jpg",
             "content": "Engage in the grand celebrations of Dashain, the longest and most significant Hindu festival in Nepal, symbolizing the victory of good over evil."
           },
           {
-            "type": "Festival",
+            "type": "Festivals",
             "title": "Tihar",
             "image": "festival_Tihar.jpg",
             "content": "Immerse yourself in the enchanting festival of lights, Tihar, celebrated with reverence for animals and the worship of various deities."
           },
           {
-            "type": "Festival",
+            "type": "Festivals",
             "title": "Maghe Sankranti",
             "image": "festival_MagheSankranti.jpg",
             "content": "Join the festivities of Maghe Sankranti, a winter harvest festival observed with cultural events, feasts, and ritualistic bathing."
           },
           {
-            "type": "Festival",
+            "type": "Festivals",
             "title": "Lhabab Duchen",
             "image": "festival_LhababDuchen.jpg",
             "content": "Participate in Lhabab Duchen, a Buddhist festival commemorating the descent of Buddha from the celestial realm."
           },
           {
-            "type": "Festival",
+            "type": "Festivals",
             "title": "Phang Lhabsol",
             "image": "festival_PhangLhabsol.jpg",
             "content": "Witness the vibrant Phang Lhabsol festival, celebrated with masked dances and rituals to honor Mount Kangchenjunga as a guardian deity."
           },
           {
-            "type": "Festival",
+            "type": "Festivals",
+            "title": "Namsoong",
+            "image": "festival_Namsoong.jpg",
+            "content": "Experience the traditional festival of Namsoong, marked by cultural performances, feasts, and the display of intricate traditional attire."
+          },
+          {
+            "type": "Festivals",
             "title": "Namsoong",
             "image": "festival_Namsoong.jpg",
             "content": "Experience the traditional festival of Namsoong, marked by cultural performances, feasts, and the display of intricate traditional attire."
@@ -1477,499 +1469,494 @@
       
     },
     "Meghalaya": {
-        "options": [
-          {
-            "type": "Food",
-            "title": "Goan Delight 1",
-            "image": "goa_Food_1.jpg",
-            "content": "Explore the delicious and diverse Goan culinary delights."
-          },
-          {
-            "type": "Food",
-            "title": "Taste of Goa 2",
-            "image": "goa_Food_2.jpg",
-            "content": "Savor the authentic flavors of Goan cuisine."
-          },
-          {
-            "type": "Food",
-            "title": "Spicy Delights 3",
-            "image": "goa_Food_3.jpg",
-            "content": "Indulge in the spicy delights of Goan dishes."
-          },
-          {
-            "type": "Food",
-            "title": "SeaFood Extravaganza 4",
-            "image": "goa_Food_4.jpg",
-            "content": "Experience a seaFood extravaganza with Goan specialties."
-          },
-          {
-            "type": "Food",
-            "title": "Goan Fusion 5",
-            "image": "goa_Food_5.jpg",
-            "content": "Try the fusion of traditional and modern Goan cuisine."
-          },
-          {
-            "type": "Food",
-            "title": "Street Food Delights 6",
-            "image": "goa_Food_6.jpg",
-            "content": "Satisfy your taste buds with Goan street Food delights."
-          },
-          {
-            "type": "Food",
-            "title": "Vegetarian Bliss 7",
-            "image": "goa_Food_7.jpg",
-            "content": "Enjoy vegetarian bliss with Goan culinary creations."
-          },
-          {
-            "type": "Food",
-            "title": "Healthy Eats 8",
-            "image": "goa_Food_8.jpg",
-            "content": "Discover healthy and flavorful eats in Goa."
-          },
-          {
-            "type": "Food",
-            "title": "Dessert Delicacies 9",
-            "image": "goa_Food_9.jpg",
-            "content": "Indulge in sweet dessert delicacies from Goa."
-          },
-          {
-            "type": "Food",
-            "title": "Gourmet Goa 10",
-            "image": "goa_Food_10.jpg",
-            "content": "Experience gourmet delights showcasing the best of Goan cuisine."
-          },
-          {
-            "type": "Festivals",
-            "title": "Goa Carnival",
-            "image": "goa_Festivals_1.jpg",
-            "content": "Experience the vibrant and lively Goa Carnival celebration."
-          },
-          {
-            "type": "Festivals",
-            "title": "Shigmo Festivals",
-            "image": "goa_Festivals_2.jpg",
-            "content": "Participate in the colorful and traditional Shigmo Festivals of Goa."
-          },
-          {
-            "type": "Festivals",
-            "title": "Diwali Celebrations",
-            "image": "goa_Festivals_3.jpg",
-            "content": "Celebrate the Festivals of Lights, Diwali, with enthusiasm in Goa."
-          },
-          {
-            "type": "Festivals",
-            "title": "Ganesh Chaturthi",
-            "image": "goa_Festivals_4.jpg",
-            "content": "Witness the grand celebrations of Ganesh Chaturthi in Goa."
-          },
-          {
-            "type": "Festivals",
-            "title": "Christmas in Goa",
-            "image": "goa_Festivals_5.jpg",
-            "content": "Enjoy the festive Christmas atmosphere in the vibrant state of Goa."
-          },
-          {
-            "type": "Festivals",
-            "title": "New Year's Eve",
-            "image": "goa_Festivals_6.jpg",
-            "content": "Welcome the New Year with exciting celebrations in Goa."
-          },
-          {
-            "type": "Festivals",
-            "title": "Shiva Festivals",
-            "image": "goa_Festivals_7.jpg",
-            "content": "Participate in the religious and cultural Shiva Festivals of Goa."
-          },
-          {
-            "type": "Festivals",
-            "title": "Holi Celebration",
-            "image": "goa_Festivals_8.jpg",
-            "content": "Join the vibrant and colorful Holi celebrations in Goa."
-          },
-          {
-            "type": "Festivals",
-            "title": "Gudi Padwa",
-            "image": "goa_Festivals_9.jpg",
-            "content": "Experience the traditional Gudi Padwa Festivals in Goa."
-          },
-          {
-            "type": "Festivals",
-            "title": "Sao Joao Festivals",
-            "image": "goa_Festivals_10.jpg",
-            "content": "Partake in the unique and water-centric Sao Joao Festivals of Goa."
-          },
-          {
-            "type": "Wildlife",
-            "title": "Coastal Wildlife 1",
-            "image": "goa_Wildlife_1.jpg",
-            "content": "Discover scenic coastal Wildlife for a memorable journey in Goa."
-          },
-          {
-            "type": "Wildlife",
-            "title": "Heritage Trails 2",
-            "image": "goa_Wildlife_2.jpg",
-            "content": "Embark on heritage trails to explore Goa's rich history and architecture."
-          },
-          {
-            "type": "Wildlife",
-            "title": "Adventure Paths 3",
-            "image": "goa_Wildlife_3.jpg",
-            "content": "Explore adventurous paths that take you through the heart of Goa's landscapes."
-          },
-          {
-            "type": "Wildlife",
-            "title": "Jungle Expedition 4",
-            "image": "goa_Wildlife_4.jpg",
-            "content": "Embark on a jungle expedition to witness Goa's diverse flora and fauna."
-          },
-          {
-            "type": "Wildlife",
-            "title": "Spiritual Trails 5",
-            "image": "goa_Wildlife_5.jpg",
-            "content": "Follow spiritual trails to serene Place of worship in Goa."
-          },
-          {
-            "type": "Wildlife",
-            "title": "Bike Riding Wildlife 6",
-            "image": "goa_Wildlife_6.jpg",
-            "content": "Enjoy the thrill of bike riding on specially curated Wildlife in Goa."
-          },
-          {
-            "type": "Wildlife",
-            "title": "Beachside Drives 7",
-            "image": "goa_Wildlife_7.jpg",
-            "content": "Experience the beauty of Goa with scenic beachside drives."
-          },
-          {
-            "type": "Wildlife",
-            "title": "Hidden Gems 8",
-            "image": "goa_Wildlife_8.jpg",
-            "content": "Uncover hidden gems and secret spots on offbeat Wildlife in Goa."
-          },
-          {
-            "type": "Wildlife",
-            "title": "River Cruises 9",
-            "image": "goa_Wildlife_9.jpg",
-            "content": "Take delightful river cruises along the picturesque waters of Goa."
-          },
-          {
-            "type": "Wildlife",
-            "title": "Sunset Trails 10",
-            "image": "goa_Wildlife_10.jpg",
-            "content": "Chase stunning sunsets on trails that capture the essence of Goa."
-          },
-          {
-            "type": "Place",
-            "title": "Beaches of Goa 1",
-            "image": "goa_Place_1.jpg",
-            "content": "Relax on the pristine beaches and enjoy the sun-kissed shores of Goa."
-          },
-          {
-            "type": "Place",
-            "title": "Historical Sites 2",
-            "image": "goa_Place_2.jpg",
-            "content": "Visit historical sites that showcase Goa's cultural heritage."
-          },
-          {
-            "type": "Place",
-            "title": "Nightlife Hotspots 3",
-            "image": "goa_Place_3.jpg",
-            "content": "Experience the vibrant nightlife at popular hotspots in Goa."
-          },
-          {
-            "type": "Place",
-            "title": "Nature Retreats 4",
-            "image": "goa_Place_4.jpg",
-            "content": "Immerse yourself in the serene beauty of nature retreats in Goa."
-          },
-          {
-            "type": "Place",
-            "title": "Art and Culture Centers 5",
-            "image": "goa_Place_5.jpg",
-            "content": "Explore art and culture centers that reflect the essence of Goa."
-          },
-          {
-            "type": "Place",
-            "title": "Adventure Hubs 6",
-            "image": "goa_Place_6.jpg",
-            "content": "Discover adventure hubs for thrilling activities in Goa."
-          },
-          {
-            "type": "Place",
-            "title": "Shopping Destinations 7",
-            "image": "goa_Place_7.jpg",
-            "content": "Indulge in shopping at vibrant markets and shopping destinations in Goa."
-          },
-          {
-            "type": "Place",
-            "title": "Waterfront Views 8",
-            "image": "goa_Place_8.jpg",
-            "content": "Enjoy breathtaking waterfront views at scenic locations in Goa."
-          },
-          {
-            "type": "Place",
-            "title": "Culinary Hotspots 9",
-            "image": "goa_Place_9.jpg",
-            "content": "Savor culinary delights at popular hotspots offering diverse cuisines in Goa."
-          },
-          {
-            "type": "Place",
-            "title": "Cultural Festivalss 10",
-            "image": "goa_Place_10.jpg",
-            "content": "Participate in cultural Festivalss that celebrate the spirit of Goa."
-          }
-          
-        ]
-      
-      
+      "options": [
+        {
+          "type": "Food",
+          "title": "Jadoh",
+          "image": "jadoh.jpg",
+          "content": "Taste the traditional Meghalayan dish, Jadoh, a flavorful rice and meat preparation."
+        },
+        {
+          "type": "Food",
+          "title": "Dohneiiong",
+          "image": "dohneiiong.jpg",
+          "content": "Savor Dohneiiong, a popular pork delicacy from Meghalaya."
+        },
+        {
+          "type": "Food",
+          "title": "Tungrymbai",
+          "image": "tungrymbai.jpg",
+          "content": "Experience the unique taste of Tungrymbai, a fermented soybean and bamboo shoot dish."
+        },
+        {
+          "type": "Food",
+          "title": "Nakham Bitchi",
+          "image": "nakham_bitchi.jpg",
+          "content": "Indulge in Nakham Bitchi, a spicy and tangy fish curry from Meghalaya."
+        },
+        {
+          "type": "Food",
+          "title": "Pukhlein",
+          "image": "pukhlein.jpg",
+          "content": "Delight in Pukhlein, a sweet rice pancake, a popular dessert in Meghalaya."
+        },
+        {
+          "type": "Food",
+          "title": "Bamboo Shoot Curry",
+          "image": "bamboo_shoot_curry.jpg",
+          "content": "Enjoy Bamboo Shoot Curry, a delicious and aromatic dish prepared with bamboo shoots."
+        },
+        {
+          "type": "Food",
+          "title": "Pumaloi",
+          "image": "pumaloi.jpg",
+          "content": "Taste Pumaloi, a traditional rice cake from Meghalaya, usually steamed in bamboo tubes."
+        },
+        {
+          "type": "Food",
+          "title": "Doh Kynduh",
+          "image": "doh_kynduh.jpg",
+          "content": "Experience Doh Kynduh, a Meghalayan salad made with a variety of local herbs and greens."
+        },
+        {
+          "type": "Food",
+          "title": "Dohkhlieh",
+          "image": "dohkhlieh.jpg",
+          "content": "Try Dohkhlieh, a spicy and tangy pork salad, a popular dish in Meghalaya."
+        },
+        {
+          "type": "Food",
+          "title": "Bamboo Shoot and Pork Curry",
+          "image": "bamboo_shoot_pork_curry.jpg",
+          "content": "Indulge in the rich flavors of Bamboo Shoot and Pork Curry, a Meghalayan specialty."
+        },
+        {
+          "type": "Festivals",
+          "title": "Wangala Festival",
+          "image": "wangala_festival.jpg",
+          "content": "Participate in the vibrant Wangala Festival, celebrating the harvest season with traditional music and dance."
+        },
+        {
+          "type": "Festivals",
+          "title": "Shad Suk Mynsiem",
+          "image": "shad_suk_mynsiem.jpg",
+          "content": "Join the colorful Shad Suk Mynsiem festival, marked by traditional dance and cultural celebrations."
+        },
+        {
+          "type": "Festivals",
+          "title": "Behdienkhlam",
+          "image": "behdienkhlam.jpg",
+          "content": "Celebrate Behdienkhlam, a traditional Meghalayan festival with vibrant processions and rituals."
+        },
+        {
+          "type": "Festivals",
+          "title": "Nongkrem Dance",
+          "image": "nongkrem_dance.jpg",
+          "content": "Witness the Nongkrem Dance, a grand festival featuring traditional dance performances."
+        },
+        {
+          "type": "Festivals",
+          "title": "Doregata Dance",
+          "image": "doregata_dance.jpg",
+          "content": "Experience the rhythmic Doregata Dance, a cultural highlight of Meghalaya."
+        },
+        {
+          "type": "Festivals",
+          "title": "Shillong Autumn Festival",
+          "image": "shillong_autumn_festival.jpg",
+          "content": "Enjoy the Shillong Autumn Festival, a celebration of music, art, and local culture."
+        },
+        {
+          "type": "Festivals",
+          "title": "Seng Kut Snem",
+          "image": "seng_kut_snem.jpg",
+          "content": "Participate in the traditional Seng Kut Snem festival, marked by community feasts and rituals."
+        },
+        {
+          "type": "Festivals",
+          "title": "Laho Dance Festival",
+          "image": "laho_dance_festival.jpg",
+          "content": "Join the lively Laho Dance Festival, showcasing the rich cultural heritage of Meghalaya."
+        },
+        {
+          "type": "Festivals",
+          "title": "Chad Sukra",
+          "image": "chad_sukra.jpg",
+          "content": "Celebrate Chad Sukra, a religious festival with prayers and cultural events in Meghalaya."
+        },
+        {
+          "type": "Festivals",
+          "title": "Strawberry Festival",
+          "image": "strawberry_festival.jpg",
+          "content": "Partake in the delightful Strawberry Festival, showcasing local produce and flavors."
+        },
+        {
+          "type": "Place",
+          "title": "Cherrapunji",
+          "image": "cherrapunji.jpg",
+          "content": "Explore the breathtaking landscapes of Cherrapunji, known for its lush greenery and rainfall."
+        },
+        {
+          "type": "Place",
+          "title": "Shillong",
+          "image": "shillong.jpg",
+          "content": "Visit the picturesque capital city of Meghalaya, Shillong, known for its pleasant climate and scenic views."
+        },
+        {
+          "type": "Place",
+          "title": "Mawlynnong",
+          "image": "mawlynnong.jpg",
+          "content": "Discover the cleanest village in Asia, Mawlynnong, and its charming living root bridges."
+        },
+        {
+          "type": "Place",
+          "title": "Dawki",
+          "image": "dawki.jpg",
+          "content": "Experience the crystal-clear waters of Dawki and indulge in boating activities."
+        },
+        {
+          "type": "Place",
+          "title": "Nohkalikai Falls",
+          "image": "nohkalikai_falls.jpg",
+          "content": "Witness the majestic Nohkalikai Falls, one of the highest plunge waterfalls in India."
+        },
+        {
+          "type": "Place",
+          "title": "Elephant Falls",
+          "image": "elephant_falls.jpg",
+          "content": "Visit the enchanting Elephant Falls, a popular tourist attraction near Shillong."
+        },
+        {
+          "type": "Place",
+          "title": "Living Root Bridges",
+          "image": "living_root_bridges.jpg",
+          "content": "Explore the unique Living Root Bridges in Meghalaya, a testament to traditional engineering."
+        },
+        {
+          "type": "Place",
+          "title": "Umiam Lake",
+          "image": "umiam_lake.jpg",
+          "content": "Enjoy the serene surroundings of Umiam Lake, a peaceful reservoir near Shillong."
+        },
+        {
+          "type": "Place",
+          "title": "Mawsmai Caves",
+          "image": "mawsmai_caves.jpg",
+          "content": "Discover the ancient Mawsmai Caves, known for their impressive limestone formations."
+        },
+        {
+          "type": "Place",
+          "title": "Krang Suri Waterfall",
+          "image": "krang_suri_waterfall.jpg",
+          "content": "Chase the beauty of Krang Suri Waterfall, a hidden gem in the Jaintia Hills."
+        },
+        {
+          "type": "Wildlife",
+          "title": "Balpakram National Park",
+          "image": "balpakram_national_park.jpg",
+          "content": "Explore the diverse flora and fauna of Balpakram National Park, known for its wildlife conservation."
+        },
+        {
+          "type": "Wildlife",
+          "title": "Nokrek National Park",
+          "image": "nokrek_national_park.jpg",
+          "content": "Witness the biodiversity of Nokrek National Park, a UNESCO Biosphere Reserve."
+        },
+        {
+          "type": "Wildlife",
+          "title": "Baghmara Pitcher Plant Sanctuary",
+          "image": "baghmara_pitcher_plant_sanctuary.jpg",
+          "content": "Visit the Baghmara Pitcher Plant Sanctuary, dedicated to the conservation of unique pitcher plants."
+        },
+        {
+          "type": "Wildlife",
+          "title": "Siju Wildlife Sanctuary",
+          "image": "siju_wildlife_sanctuary.jpg",
+          "content": "Experience the rich wildlife at Siju Wildlife Sanctuary, a haven for nature enthusiasts."
+        },
+        {
+          "type": "Wildlife",
+          "title": "Kyllang Rock",
+          "image": "kyllang_rock.jpg",
+          "content": "Explore Kyllang Rock, a sacred site with panoramic views and cultural significance."
+        },
+        {
+          "type": "Wildlife",
+          "title": "Nongkhnum Island",
+          "image": "nongkhnum_island.jpg",
+          "content": "Visit Nongkhnum Island, the second-largest river island in Asia, for its natural beauty."
+        },
+        {
+          "type": "Wildlife",
+          "title": "Siju Cave Complex",
+          "image": "siju_cave_complex.jpg",
+          "content": "Discover the fascinating Siju Cave Complex, home to unique limestone formations and bats."
+        },
+        {
+          "type": "Wildlife",
+          "title": "Pelga Falls",
+          "image": "pelga_falls.jpg",
+          "content": "Enjoy the scenic beauty of Pelga Falls, surrounded by lush greenery and wildlife."
+        },
+        {
+          "type": "Wildlife",
+          "title": "Siju Bird Sanctuary",
+          "image": "siju_bird_sanctuary.jpg",
+          "content": "Witness a variety of bird species at Siju Bird Sanctuary, a paradise for birdwatchers."
+        },
+        {
+          "type": "Wildlife",
+          "title": "West Garo Hills Wildlife Division Wildlife of Meghalaya",
+          "image": "wildlife_of_meghalaya.jpg",
+          "content": "Explore the diverse wildlife in the West Garo Hills Wildlife Division of Meghalaya."
+        }
+      ]
     },
     "Himachal Pradesh": {
-        "options": [
-          {
-            "type": "Food",
-            "title": "Goan Delight 1",
-            "image": "goa_Food_1.jpg",
-            "content": "Explore the delicious and diverse Goan culinary delights."
-          },
-          {
-            "type": "Food",
-            "title": "Taste of Goa 2",
-            "image": "goa_Food_2.jpg",
-            "content": "Savor the authentic flavors of Goan cuisine."
-          },
-          {
-            "type": "Food",
-            "title": "Spicy Delights 3",
-            "image": "goa_Food_3.jpg",
-            "content": "Indulge in the spicy delights of Goan dishes."
-          },
-          {
-            "type": "Food",
-            "title": "SeaFood Extravaganza 4",
-            "image": "goa_Food_4.jpg",
-            "content": "Experience a seaFood extravaganza with Goan specialties."
-          },
-          {
-            "type": "Food",
-            "title": "Goan Fusion 5",
-            "image": "goa_Food_5.jpg",
-            "content": "Try the fusion of traditional and modern Goan cuisine."
-          },
-          {
-            "type": "Food",
-            "title": "Street Food Delights 6",
-            "image": "goa_Food_6.jpg",
-            "content": "Satisfy your taste buds with Goan street Food delights."
-          },
-          {
-            "type": "Food",
-            "title": "Vegetarian Bliss 7",
-            "image": "goa_Food_7.jpg",
-            "content": "Enjoy vegetarian bliss with Goan culinary creations."
-          },
-          {
-            "type": "Food",
-            "title": "Healthy Eats 8",
-            "image": "goa_Food_8.jpg",
-            "content": "Discover healthy and flavorful eats in Goa."
-          },
-          {
-            "type": "Food",
-            "title": "Dessert Delicacies 9",
-            "image": "goa_Food_9.jpg",
-            "content": "Indulge in sweet dessert delicacies from Goa."
-          },
-          {
-            "type": "Food",
-            "title": "Gourmet Goa 10",
-            "image": "goa_Food_10.jpg",
-            "content": "Experience gourmet delights showcasing the best of Goan cuisine."
-          },
-          {
-            "type": "Festivals",
-            "title": "Goa Carnival",
-            "image": "goa_Festivals_1.jpg",
-            "content": "Experience the vibrant and lively Goa Carnival celebration."
-          },
-          {
-            "type": "Festivals",
-            "title": "Shigmo Festivals",
-            "image": "goa_Festivals_2.jpg",
-            "content": "Participate in the colorful and traditional Shigmo Festivals of Goa."
-          },
-          {
-            "type": "Festivals",
-            "title": "Diwali Celebrations",
-            "image": "goa_Festivals_3.jpg",
-            "content": "Celebrate the Festivals of Lights, Diwali, with enthusiasm in Goa."
-          },
-          {
-            "type": "Festivals",
-            "title": "Ganesh Chaturthi",
-            "image": "goa_Festivals_4.jpg",
-            "content": "Witness the grand celebrations of Ganesh Chaturthi in Goa."
-          },
-          {
-            "type": "Festivals",
-            "title": "Christmas in Goa",
-            "image": "goa_Festivals_5.jpg",
-            "content": "Enjoy the festive Christmas atmosphere in the vibrant state of Goa."
-          },
-          {
-            "type": "Festivals",
-            "title": "New Year's Eve",
-            "image": "goa_Festivals_6.jpg",
-            "content": "Welcome the New Year with exciting celebrations in Goa."
-          },
-          {
-            "type": "Festivals",
-            "title": "Shiva Festivals",
-            "image": "goa_Festivals_7.jpg",
-            "content": "Participate in the religious and cultural Shiva Festivals of Goa."
-          },
-          {
-            "type": "Festivals",
-            "title": "Holi Celebration",
-            "image": "goa_Festivals_8.jpg",
-            "content": "Join the vibrant and colorful Holi celebrations in Goa."
-          },
-          {
-            "type": "Festivals",
-            "title": "Gudi Padwa",
-            "image": "goa_Festivals_9.jpg",
-            "content": "Experience the traditional Gudi Padwa Festivals in Goa."
-          },
-          {
-            "type": "Festivals",
-            "title": "Sao Joao Festivals",
-            "image": "goa_Festivals_10.jpg",
-            "content": "Partake in the unique and water-centric Sao Joao Festivals of Goa."
-          },
-          {
-            "type": "Wildlife",
-            "title": "Coastal Wildlife 1",
-            "image": "goa_Wildlife_1.jpg",
-            "content": "Discover scenic coastal Wildlife for a memorable journey in Goa."
-          },
-          {
-            "type": "Wildlife",
-            "title": "Heritage Trails 2",
-            "image": "goa_Wildlife_2.jpg",
-            "content": "Embark on heritage trails to explore Goa's rich history and architecture."
-          },
-          {
-            "type": "Wildlife",
-            "title": "Adventure Paths 3",
-            "image": "goa_Wildlife_3.jpg",
-            "content": "Explore adventurous paths that take you through the heart of Goa's landscapes."
-          },
-          {
-            "type": "Wildlife",
-            "title": "Jungle Expedition 4",
-            "image": "goa_Wildlife_4.jpg",
-            "content": "Embark on a jungle expedition to witness Goa's diverse flora and fauna."
-          },
-          {
-            "type": "Wildlife",
-            "title": "Spiritual Trails 5",
-            "image": "goa_Wildlife_5.jpg",
-            "content": "Follow spiritual trails to serene Place of worship in Goa."
-          },
-          {
-            "type": "Wildlife",
-            "title": "Bike Riding Wildlife 6",
-            "image": "goa_Wildlife_6.jpg",
-            "content": "Enjoy the thrill of bike riding on specially curated Wildlife in Goa."
-          },
-          {
-            "type": "Wildlife",
-            "title": "Beachside Drives 7",
-            "image": "goa_Wildlife_7.jpg",
-            "content": "Experience the beauty of Goa with scenic beachside drives."
-          },
-          {
-            "type": "Wildlife",
-            "title": "Hidden Gems 8",
-            "image": "goa_Wildlife_8.jpg",
-            "content": "Uncover hidden gems and secret spots on offbeat Wildlife in Goa."
-          },
-          {
-            "type": "Wildlife",
-            "title": "River Cruises 9",
-            "image": "goa_Wildlife_9.jpg",
-            "content": "Take delightful river cruises along the picturesque waters of Goa."
-          },
-          {
-            "type": "Wildlife",
-            "title": "Sunset Trails 10",
-            "image": "goa_Wildlife_10.jpg",
-            "content": "Chase stunning sunsets on trails that capture the essence of Goa."
-          },
-          {
-            "type": "Place",
-            "title": "Beaches of Goa 1",
-            "image": "goa_Place_1.jpg",
-            "content": "Relax on the pristine beaches and enjoy the sun-kissed shores of Goa."
-          },
-          {
-            "type": "Place",
-            "title": "Historical Sites 2",
-            "image": "goa_Place_2.jpg",
-            "content": "Visit historical sites that showcase Goa's cultural heritage."
-          },
-          {
-            "type": "Place",
-            "title": "Nightlife Hotspots 3",
-            "image": "goa_Place_3.jpg",
-            "content": "Experience the vibrant nightlife at popular hotspots in Goa."
-          },
-          {
-            "type": "Place",
-            "title": "Nature Retreats 4",
-            "image": "goa_Place_4.jpg",
-            "content": "Immerse yourself in the serene beauty of nature retreats in Goa."
-          },
-          {
-            "type": "Place",
-            "title": "Art and Culture Centers 5",
-            "image": "goa_Place_5.jpg",
-            "content": "Explore art and culture centers that reflect the essence of Goa."
-          },
-          {
-            "type": "Place",
-            "title": "Adventure Hubs 6",
-            "image": "goa_Place_6.jpg",
-            "content": "Discover adventure hubs for thrilling activities in Goa."
-          },
-          {
-            "type": "Place",
-            "title": "Shopping Destinations 7",
-            "image": "goa_Place_7.jpg",
-            "content": "Indulge in shopping at vibrant markets and shopping destinations in Goa."
-          },
-          {
-            "type": "Place",
-            "title": "Waterfront Views 8",
-            "image": "goa_Place_8.jpg",
-            "content": "Enjoy breathtaking waterfront views at scenic locations in Goa."
-          },
-          {
-            "type": "Place",
-            "title": "Culinary Hotspots 9",
-            "image": "goa_Place_9.jpg",
-            "content": "Savor culinary delights at popular hotspots offering diverse cuisines in Goa."
-          },
-          {
-            "type": "Place",
-            "title": "Cultural Festivalss 10",
-            "image": "goa_Place_10.jpg",
-            "content": "Participate in cultural Festivalss that celebrate the spirit of Goa."
-          }
-          
-        ]
-      
-      
+      "options": [
+        {
+          "type": "Food",
+          "title": "Sidu",
+          "image": "sidu.jpg",
+          "content": "Savor the traditional Himachali Sidu, a stuffed bread enjoyed with ghee or butter."
+        },
+        {
+          "type": "Food",
+          "title": "Thukpa",
+          "image": "thukpa.jpg",
+          "content": "Indulge in Thukpa, a hearty noodle soup that originated in Tibetan cuisine and is popular in Himachal Pradesh."
+        },
+        {
+          "type": "Food",
+          "title": "Dham",
+          "image": "dham.jpg",
+          "content": "Experience Dham, a traditional feast in Himachal Pradesh featuring a variety of delectable dishes."
+        },
+        {
+          "type": "Food",
+          "title": "Babru",
+          "image": "babru.jpg",
+          "content": "Enjoy Babru, a deep-fried bread stuffed with black gram paste, a delightful Himachali snack."
+        },
+        {
+          "type": "Food",
+          "title": "Momos",
+          "image": "momos.jpg",
+          "content": "Delight in Momos, steamed or fried dumplings filled with meat or vegetables, a popular street food in Himachal Pradesh."
+        },
+        {
+          "type": "Food",
+          "title": "Chha Gosht",
+          "image": "chha_gosht.jpg",
+          "content": "Savor the rich and flavorful Chha Gosht, a Himachali dish featuring marinated lamb cooked to perfection."
+        },
+        {
+          "type": "Food",
+          "title": "Chha Gosht",
+          "image": "chha_gosht.jpg",
+          "content": "Savor the rich and flavorful Chha Gosht, a Himachali dish featuring marinated lamb cooked to perfection."
+        },
+        {
+          "type": "Food",
+          "title": "Chha Gosht",
+          "image": "chha_gosht.jpg",
+          "content": "Savor the rich and flavorful Chha Gosht, a Himachali dish featuring marinated lamb cooked to perfection."
+        },
+        {
+          "type": "Food",
+          "title": "Chha Gosht",
+          "image": "chha_gosht.jpg",
+          "content": "Savor the rich and flavorful Chha Gosht, a Himachali dish featuring marinated lamb cooked to perfection."
+        },
+        {
+          "type": "Food",
+          "title": "Chha Gosht",
+          "image": "chha_gosht.jpg",
+          "content": "Savor the rich and flavorful Chha Gosht, a Himachali dish featuring marinated lamb cooked to perfection."
+        },
+        {
+          "type": "Festivals",
+          "title": "Kullu Dussehra",
+          "image": "kullu_dussehra.jpg",
+          "content": "Participate in the vibrant Kullu Dussehra, a week-long festival with processions, folk music, and cultural events."
+        },
+        {
+          "type": "Festivals",
+          "title": "Himachal Winter Carnival",
+          "image": "himachal_winter_carnival.jpg",
+          "content": "Experience the joyous Himachal Winter Carnival, featuring parades, folk dances, and winter sports."
+        },
+        {
+          "type": "Festivals",
+          "title": "Losar",
+          "image": "losar.jpg",
+          "content": "Celebrate Losar, the Tibetan New Year, with traditional ceremonies and cultural performances in Himachal Pradesh."
+        },
+        {
+          "type": "Festivals",
+          "title": "Halda Festival",
+          "image": "halda_festival.jpg",
+          "content": "Partake in the Halda Festival, a unique celebration of lights and bonfires in Himachal Pradesh."
+        },
+        {
+          "type": "Festivals",
+          "title": "Phulaich Festival",
+          "image": "phulaich_festival.jpg",
+          "content": "Witness the colorful Phulaich Festival, celebrated with flower offerings and traditional dances."
+        },
+        {
+          "type": "Festivals",
+          "title": "Holi",
+          "image": "holi.jpg",
+          "content": "Join the vibrant Holi celebrations in Himachal Pradesh, marked by colorful festivities and joyous gatherings."
+        },
+        {
+          "type": "Festivals",
+          "title": "Diwali",
+          "image": "diwali.jpg",
+          "content": "Celebrate Diwali, the Festival of Lights, with enthusiasm and traditional rituals in Himachal Pradesh."
+        },
+        {
+          "type": "Festivals",
+          "title": "Lohri",
+          "image": "lohri.jpg",
+          "content": "Participate in the lively Lohri celebrations, marked by bonfires, music, and dance in Himachal Pradesh."
+        },
+        {
+          "type": "Festivals",
+          "title": "Shivratri",
+          "image": "shivratri.jpg",
+          "content": "Observe the religious festival of Shivratri with prayers and cultural events in Himachal Pradesh."
+        },
+        {
+          "type": "Festivals",
+          "title": "Navratri",
+          "image": "navratri.jpg",
+          "content": "Partake in the vibrant Navratri celebrations, featuring traditional dance and music performances in Himachal Pradesh."
+        },
+        {
+          "type": "Place",
+          "title": "Manali",
+          "image": "manali.jpg",
+          "content": "Explore the picturesque town of Manali, known for its stunning landscapes, adventure activities, and vibrant markets."
+        },
+        {
+          "type": "Place",
+        "title": "Shimla",
+        "image": "shimla.jpg",
+        "content": "Visit the charming hill station of Shimla, surrounded by snow-capped mountains and colonial architecture."
     },
+    {
+        "type": "Place",
+        "title": "Dharamshala",
+        "image": "dharamshala.jpg",
+        "content": "Experience the spiritual ambiance of Dharamshala, home to the Tibetan government-in-exile and the Dalai Lama."
+    },
+    {
+        "type": "Place",
+        "title": "Kullu",
+        "image": "kullu.jpg",
+        "content": "Discover the scenic beauty of Kullu, nestled in the Kullu Valley and renowned for its temples and festivals."
+    },
+    {
+        "type": "Place",
+        "title": "Rohtang Pass",
+        "image": "rohtang_pass.jpg",
+        "content": "Marvel at the breathtaking views from Rohtang Pass, a high mountain pass offering access to the Lahaul and Spiti valleys."
+    },
+    {
+        "type": "Place",
+        "title": "Khajjiar",
+        "image": "khajjiar.jpg",
+        "content": "Visit Khajjiar, often referred to as the 'Mini Switzerland of India,' with its lush green meadows and scenic landscapes."
+    },
+    {
+        "type": "Place",
+        "title": "Spiti Valley",
+        "image": "spiti_valley.jpg",
+        "content": "Embark on a journey to Spiti Valley, known for its rugged terrain, ancient monasteries, and Tibetan culture."
+    },
+    {
+        "type": "Place",
+        "title": "Kinnaur",
+        "image": "kinnaur.jpg",
+        "content": "Explore the serene Kinnaur region, blessed with apple orchards, picturesque villages, and Buddhist monasteries."
+    },
+    {
+        "type": "Place",
+        "title": "Chamba",
+        "image": "chamba.jpg",
+        "content": "Immerse yourself in the historical charm of Chamba, featuring ancient temples, palaces, and scenic landscapes."
+    },
+    {
+        "type": "Place",
+        "title": "Kasol",
+        "image": "kasol.jpg",
+        "content": "Relax in the laid-back atmosphere of Kasol, a popular destination for trekking and nature enthusiasts."
+    },
+    {
+        "type": "Wildlife",
+        "title": "Himalayan Monal",
+        "image": "himalayan_monal.jpg",
+        "content": "Admire the vibrant colors of the Himalayan Monal, the state bird of Himachal Pradesh, in its natural habitat."
+    },
+    {
+        "type": "Wildlife",
+        "title": "Snow Leopard",
+        "image": "snow_leopard.jpg",
+        "content": "Discover the elusive Snow Leopard, a majestic big cat adapted to the high-altitude regions of Himachal Pradesh."
+    },
+    {
+        "type": "Wildlife",
+        "title": "Himalayan Tahr",
+        "image": "himalayan_tahr.jpg",
+        "content": "Encounter the Himalayan Tahr, a wild goat species perfectly adapted to the rocky mountainous terrain."
+    },
+    {
+        "type": "Wildlife",
+        "title": "Red Fox",
+        "image": "red_fox.jpg",
+        "content": "Spot the Red Fox, a cunning and adaptable mammal found in the forests and mountainous areas of Himachal Pradesh."
+    },
+    {
+        "type": "Wildlife",
+        "title": "Blue Sheep",
+        "image": "blue_sheep.jpg",
+        "content": "Observe the Blue Sheep, also known as Bharal, agilely navigating the steep slopes of the Himalayas."
+    },
+    {
+        "type": "Wildlife",
+        "title": "Musk Deer",
+        "image": "musk_deer.jpg",
+        "content": "Learn about the elusive Musk Deer, known for its musk glands and shy nature in the forests of Himachal Pradesh."
+    },
+    {
+        "type": "Wildlife",
+        "title": "Himalayan Brown Bear",
+        "image": "himalayan_brown_bear.jpg",
+        "content": "Discover the Himalayan Brown Bear, a large and powerful mammal inhabiting the remote regions of Himachal Pradesh."
+    },
+    {
+        "type": "Wildlife",
+        "title": "Serow",
+        "image": "serow.jpg",
+        "content": "Encounter the Serow, a goat-like mammal known for its distinct appearance and presence in the Himalayan forests."
+    },
+    {
+        "type": "Wildlife",
+        "title": "Common Langur",
+        "image": "common_langur.jpg",
+        "content": "Observe the Common Langur, an agile and social monkey species found in the forests of Himachal Pradesh."
+    },
+    {
+        "type": "Wildlife",
+        "title": "Himalayan Palm Civet",
+        "image": "himalayan_palm_civet.jpg",
+        "content": "Learn about the Himalayan Palm Civet, a small and nocturnal mammal residing in the dense forests of Himachal Pradesh."
+    }
+    ]
+    },
+    
     "Uttar Pradesh": {
         "options": [
           {
