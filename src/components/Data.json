@@ -619,122 +619,122 @@
               {
                   "type": "Place",
                   "title": "Munnar",
-                  "image": "/images/states/Kerala/Places/munnar.jpg",
+                  "image": "/images/states/Kerala/Places/f-1",
                   "content": "A picturesque hill station known for its tea plantations, lush greenery, and cool climate."
               },
               {
                   "type": "Place",
                   "title": "Alleppey",
-                  "image": "/images/states/Kerala/Places/alleppey.jpg",
+                  "image": "/images/states/Kerala/Places/f-2",
                   "content": "Famous for its backwaters, houseboats, and serene landscapes, offering a unique Kerala experience."
               },
               {
                   "type": "Place",
                   "title": "Kochi",
-                  "image": "/images/states/Kerala/Places/kochi.jpg",
+                  "image": "/images/states/Kerala/Places/f-3",
                   "content": "A vibrant city with a blend of modernity and history, featuring the iconic Chinese fishing nets."
               },
               {
                   "type": "Place",
                   "title": "Thiruvananthapuram",
-                  "image": "/images/states/Kerala/Places/thiruvananthapuram.jpg",
+                  "image": "/images/states/Kerala/Places/f-4",
                   "content": "The capital city known for its historic landmarks, museums, and the iconic Padmanabhaswamy Temple."
               },
               {
                   "type": "Place",
                   "title": "Wayanad",
-                  "image": "/images/states/Kerala/Places/wayanad.jpg",
+                  "image": "/images/states/Kerala/Places/f-5",
                   "content": "A lush green district with wildlife, waterfalls, and trekking trails, perfect for nature enthusiasts."
               },
               {
                   "type": "Place",
                   "title": "Kovalam",
-                  "image": "/images/states/Kerala/Places/kovalam.jpg",
+                  "image": "/images/states/Kerala/Places/f-6",
                   "content": "A popular beach destination with golden sands, clear waters, and a relaxed atmosphere."
               },
               {
                   "type": "Place",
                   "title": "Thekkady",
-                  "image": "/images/states/Kerala/Places/thekkady.jpg",
+                  "image": "/images/states/Kerala/Places/f-7",
                   "content": "Home to Periyar National Park, offering wildlife safaris and boat rides in a scenic environment."
               },
               {
                   "type": "Place",
                   "title": "Varkala",
-                  "image": "/images/states/Kerala/Places/varkala.jpg",
+                  "image": "/images/states/Kerala/Places/f-8",
                   "content": "A coastal town known for its cliffs, mineral springs, and the famous Varkala Beach."
               },
               {
                   "type": "Place",
                   "title": "Kumarakom",
-                  "image": "/images/states/Kerala/Places/kumarakom.jpg",
+                  "image": "/images/states/Kerala/Places/f-9",
                   "content": "A backwater destination with houseboats, bird sanctuaries, and a tranquil ambiance."
               },
               {
                   "type": "Place",
                   "title": "Fort Kochi",
-                  "image": "/images/states/Kerala/Places/fort_kochi.jpg",
+                  "image": "/images/states/Kerala/Places/f-10",
                   "content": "A historic area with colonial architecture, art galleries, and the iconic Chinese fishing nets."
               },
               {
                   "type": "Wildlife",
                   "title": "Indian Elephant",
-                  "content": "Majestic Indian Elephants, a common sight in Kerala's wildlife sanctuaries.",
-                  "image": "/images/states/Kerala/Wildlife/indian_elephant.jpg"
+                  "image": "/images/states/Kerala/Wildlife/f-1",
+                  "content": "Majestic Indian Elephants, a common sight in Kerala's wildlife sanctuaries."
               },
               {
                   "type": "Wildlife",
                   "title": "Bengal Tiger",
                   "content": "The elusive Bengal Tiger, a symbol of India's diverse and rich wildlife.",
-                  "image": "/images/states/Kerala/Wildlife/bengal_tiger.jpg"
+                  "image": "/images/states/Kerala/Wildlife/f-2"
               },
               {
                   "type": "Wildlife",
                   "title": "Indian Gaur",
                   "content": "Powerful Indian Gaur, the largest extant bovine, found in Kerala's forests.",
-                  "image": "/images/states/Kerala/Wildlife/indian_gaur.jpg"
+                  "image": "/images/states/Kerala/Wildlife/f-3"
               },
               {
                   "type": "Wildlife",
                   "title": "Sambar Deer",
                   "content": "Graceful Sambar Deer, with their impressive antlers, add to the charm of Kerala's wildlife.",
-                  "image": "/images/states/Kerala/Wildlife/sambar_deer.jpg"
+                  "image": "/images/states/Kerala/Wildlife/f-4"
               },
               {
                   "type": "Wildlife",
                   "title": "Nilgiri Tahr",
                   "content": "Endangered Nilgiri Tahr, a mountain goat species, can be found in the Nilgiri Hills of Kerala.",
-                  "image": "/images/states/Kerala/Wildlife/nilgiri_tahr.jpg"
+                  "image": "/images/states/Kerala/Wildlife/f-5"
               },
               {
                   "type": "Wildlife",
                   "title": "Lion-tailed Macaque",
                   "content": "The Lion-tailed Macaque, an endangered primate, inhabits the Western Ghats of Kerala.",
-                  "image": "/images/states/Kerala/Wildlife/lion_tailed_macaque.jpg"
+                  "image": "/images/states/Kerala/Wildlife/f-6"
               },
               {
                   "type": "Wildlife",
                   "title": "Indian Giant Squirrel",
                   "content": "The vibrant Indian Giant Squirrel adds color to Kerala's forests with its striking fur.",
-                  "image": "/images/states/Kerala/Wildlife/indian_giant_squirrel.jpg"
+                  "image": "/images/states/Kerala/Wildlife/f-7"
               },
               {
                   "type": "Wildlife",
                   "title": "Indian Pangolin",
                   "content": "The elusive Indian Pangolin, with its unique scales, is a rare sighting in Kerala's wilderness.",
-                  "image": "/images/states/Kerala/Wildlife/indian_pangolin.jpg"
+                  "image": "/images/states/Kerala/Wildlife/f-8"
               },
               {
                   "type": "Wildlife",
                   "title": "Malabar Civet",
                   "content": "The Malabar Civet, a nocturnal mammal, is one of the lesser-known species found in Kerala.",
-                  "image": "/images/states/Kerala/Wildlife/malabar_civet.jpg"
+                  "image": "/images/states/Kerala/Wildlife/f-9"
               },
               {
                   "type": "Wildlife",
                   "title": "Great Hornbill",
                   "content": "The majestic Great Hornbill, with its distinctive beak, is a symbol of Kerala's rich avian biodiversity.",
-                  "image": "/images/states/Kerala/Wildlife/great_hornbill.jpg"
+                  "image": "/images/states/Kerala/Wildlife/f-10"
               }
           ]
       },
@@ -743,234 +743,241 @@
                 {
                     "type": "Food",
                     "title": "Dal Baati Churma",
-                    "image": "/images/states/Rajasthan/Food/dal_baati_churma.jpg",
+                    "image": "/images/states/Rajasthan/Food/f-1",
                     "content": "A traditional Rajasthani dish featuring baked wheat balls (baati) served with lentils (dal) and a sweet crumbly mixture (churma)."
                 },
                 {
                     "type": "Food",
                     "title": "Gatte ki Sabzi",
-                    "image": "/images/states/Rajasthan/Food/gatte_ki_sabzi.jpg",
+                    "image": "/images/states/Rajasthan/Food/f-2",
                     "content": "Gatte (gram flour dumplings) cooked in a spiced yogurt-based curry, a flavorful Rajasthani delicacy."
                 },
                 {
                     "type": "Food",
                     "title": "Ker Sangri",
-                    "image": "/images/states/Rajasthan/Food/ker_sangri.jpg",
+                    "image": "/images/states/Rajasthan/Food/f-3",
                     "content": "A traditional Rajasthani dish made with dried berries (ker) and beans (sangri), cooked in a spicy and tangy gravy."
                 },
                 {
                     "type": "Food",
                     "title": "Laal Maas",
-                    "image": "/images/states/Rajasthan/Food/laal_maas.jpg",
+                    "image": "/images/states/Rajasthan/Food/f-4",
                     "content": "Laal Maas is a fiery Rajasthani meat curry, known for its vibrant red color and robust flavors."
                 },
                 {
                     "type": "Food",
                     "title": "Mohan Maas",
-                    "image": "/images/states/Rajasthan/Food/mohan_maas.jpg",
+                    "image": "/images/states/Rajasthan/Food/f-5",
                     "content": "Mohan Maas is a rich and indulgent Rajasthani meat curry, often prepared for special occasions."
                 },
                 {
                     "type": "Food",
                     "title": "Rajasthani Kadhi",
-                    "image": "/images/states/Rajasthan/Food/rajasthani_kadhi.jpg",
+                    "image": "/images/states/Rajasthan/Food/f-6",
                     "content": "A yogurt-based curry with gram flour dumplings, a popular comfort food in Rajasthan."
                 },
                 {
                     "type": "Food",
                     "title": "Pyaaz Kachori",
-                    "image": "/images/states/Rajasthan/Food/pyaaz_kachori.jpg",
+                    "image": "/images/states/Rajasthan/Food/f-7",
                     "content": "Deep-fried pastries filled with spiced onion mixture, a popular snack in Rajasthan."
                 },
                 {
                     "type": "Food",
                     "title": "Mirchi Vada",
-                    "image": "/images/states/Rajasthan/Food/mirchi_vada.jpg",
+                    "image": "/images/states/Rajasthan/Food/f-8",
                     "content": "Spicy green chilies stuffed with a potato mixture, coated in gram flour batter, and deep-fried."
                 },
                 {
                     "type": "Food",
                     "title": "Mawa Kachori",
-                    "image": "/images/states/Rajasthan/Food/mawa_kachori.jpg",
+                    "image": "/images/states/Rajasthan/Food/f-9",
                     "content": "Sweet and indulgent pastries filled with a mixture of khoya (mawa), nuts, and sugar."
                 },
                 {
                     "type": "Food",
                     "title": "Rabri",
-                    "image": "/images/states/Rajasthan/Food/rabri.jpg",
+                    "image": "/images/states/Rajasthan/Food/f-10",
                     "content": "A rich and creamy dessert made by condensing sweetened milk, flavored with cardamom and garnished with nuts."
                 },
                 {
                     "type": "Festivals",
                     "title": "Diwali",
-                    "image": "/images/states/Rajasthan/Festivals/diwali.jpg",
+                    "image": "/images/states/Rajasthan/Festival/f-1",
                     "content": "The festival of lights celebrated with diyas, decorations, and traditional sweets, marking the victory of light over darkness."
                 },
                 {
                     "type": "Festivals",
                     "title": "Holi",
-                    "image": "/images/states/Rajasthan/Festivals/holi.jpg",
+                    "image": "/images/states/Rajasthan/Festival/f-2",
                     "content": "The colorful festival of Holi is celebrated with enthusiasm, featuring vibrant powders, music, and joyous celebrations."
                 },
                 {
                     "type": "Festivals",
                     "title": "Pushkar Camel Fair",
-                    "image": "/images/states/Rajasthan/Festivals/pushkar_camel_fair.jpg",
+                    "image": "/images/states/Rajasthan/Festival/f-3",
                     "content": "A famous annual fair in Pushkar, known for its camel trading, cultural events, and religious significance."
                 },
                 {
                     "type": "Festivals",
                     "title": "Gangaur Festival",
-                    "image": "/images/states/Rajasthan/Festivals/gangaur.jpg",
+                    "image": "/images/states/Rajasthan/Festival/f-4",
                     "content": "Dedicated to Goddess Gauri, this colorful festival involves traditional rituals and vibrant processions."
                 },
                 {
                     "type": "Festivals",
                     "title": "Teej",
-                    "image": "/images/states/Rajasthan/Festivals/teej.jpg",
+                    "image": "/images/states/Rajasthan/Festival/f-5",
                     "content": "Teej is a monsoon festival celebrated with traditional dances, swings, and processions in honor of Goddess Parvati."
                 },
                 {
                     "type": "Festivals",
                     "title": "Desert Festival",
-                    "image": "/images/states/Rajasthan/Festivals/desert_festival.jpg",
+                    "image": "/images/states/Rajasthan/Festival/f-6",
                     "content": "A cultural extravaganza in Jaisalmer showcasing traditional music, dance, camel races, and more."
                 },
                 {
                     "type": "Festivals",
                     "title": "Kite Festival",
-                    "image": "/images/states/Rajasthan/Festivals/kite_festival.jpg",
+                    "image": "/images/states/Rajasthan/Festival/f-7",
                     "content": "Makar Sankranti is celebrated with kite flying competitions, adding colorful patterns to the sky."
                 },
                 {
                     "type": "Festivals",
                     "title": "Mewar Festival",
-                    "image": "/images/states/Rajasthan/Festivals/mewar_festival.jpg",
+                    "image": "/images/states/Rajasthan/Festival/f-8",
                     "content": "A spring festival celebrated in Udaipur with processions, cultural events, and traditional performances."
                 },
                 {
                     "type": "Festivals",
                     "title": "Marwar Festival",
-                    "image": "/images/states/Rajasthan/Festivals/marwar_festival.jpg",
+                    "image": "/images/states/Rajasthan/Festival/f-9",
                     "content": "A celebration of the Marwar region's music and dance traditions, featuring folk performances and cultural events."
                 },
                 {
                     "type": "Festivals",
                     "title": "Elephant Festival",
-                    "image": "/images/states/Rajasthan/Festivals/elephant_festival.jpg",
+                    "image": "/images/states/Rajasthan/Festival/f-10",
                     "content": "A unique festival in Jaipur showcasing decorated elephants, cultural performances, and processions."
                 },
                 {
                     "type": "Place",
                     "title": "Jaipur",
-                    "image": "/images/states/Rajasthan/Places/jaipur.jpg",
+                    "image": "/images/states/Rajasthan/Places/f-1",
                     "content": "Known as the 'Pink City,' Jaipur is famous for its historic forts, palaces, and vibrant markets."
                 },
                 {
                     "type": "Place",
                     "title": "Udaipur",
-                    "image": "/images/states/Rajasthan/Places/udaipur.jpg",
+                    "image": "/images/states/Rajasthan/Places/f-2",
                     "content": "The 'City of Lakes,' Udaipur is renowned for its picturesque lakes, palaces, and romantic ambiance."
                 },
                 {
                     "type": "Place",
                     "title": "Jodhpur",
-                    "image": "/images/states/Rajasthan/Places/jodhpur.jpg",
+                    "image": "/images/states/Rajasthan/Places/f-3",
                     "content": "Known as the 'Blue City,' Jodhpur features stunning blue-painted houses and the majestic Mehrangarh Fort."
                 },
                 {
                     "type": "Place",
                     "title": "Ajmer",
-                    "image": "/images/states/Rajasthan/Places/ajmer.jpg",
+                    "image": "/images/states/Rajasthan/Places/f-4",
                     "content": "Home to the famous Ajmer Sharif Dargah, Ajmer is a pilgrimage destination with historical significance."
                 },
                 {
                     "type": "Place",
                     "title": "Pushkar",
-                    "image": "/images/states/Rajasthan/Places/pushkar.jpg",
+                    "image": "/images/states/Rajasthan/Places/f-5",
                     "content": "Known for the sacred Pushkar Lake and the Brahma Temple, Pushkar is a significant pilgrimage site."
                 },
                 {
                     "type": "Place",
                     "title": "Mount Abu",
-                    "image": "/images/states/Rajasthan/Places/mount_abu.jpg",
+                    "image": "/images/states/Rajasthan/Places/f-6",
                     "content": "The only hill station in Rajasthan, Mount Abu offers a cool climate, scenic landscapes, and the Dilwara Temples."
                 },
                 {
                     "type": "Place",
                     "title": "Bikaner",
-                    "image": "/images/states/Rajasthan/Places/bikaner.jpg",
+                    "image": "/images/states/Rajasthan/Places/f-7",
                     "content": "Known for its well-preserved forts and the Karni Mata Temple, Bikaner is a city with a rich cultural heritage."
                 },
                 {
                     "type": "Place",
                     "title": "Ranthambore",
-                    "image": "/images/states/Rajasthan/Places/ranthambore.jpg",
+                    "image": "/images/states/Rajasthan/Places/f-8",
                     "content": "Famous for Ranthambore National Park, this region offers opportunities to spot Bengal tigers in the wild."
                 },
                 {
                     "type": "Place",
                     "title": "Chittorgarh",
-                    "image": "/images/states/Rajasthan/Places/chittorgarh.jpg",
+                    "image": "/images/states/Rajasthan/Places/f-9",
                     "content": "Home to the historic Chittorgarh Fort, this city showcases Rajput architecture and tales of valor."
                 },
                 {
                     "type": "Place",
                     "title": "Alwar",
-                    "image": "/images/states/Rajasthan/Places/alwar.jpg",
+                    "image": "/images/states/Rajasthan/Places/f-10",
                     "content": "Known for its forts, palaces, and the Sariska Tiger Reserve, Alwar is a blend of history and nature."
                 },
                 {
                     "type": "Wildlife",
                     "title": "Bengal Tiger",
+                    "image": "/images/states/Rajasthan/Wildlife/f-1",
                     "content": "The majestic Bengal Tiger, India's national animal, can be spotted in Rajasthan's wildlife reserves."
                 },
                 {
                     "type": "Wildlife",
                     "title": "Indian Elephant",
+                    "image": "/images/states/Rajasthan/Wildlife/f-2",
                     "content": "Gentle Indian Elephants, often seen in wildlife sanctuaries, contribute to the rich biodiversity of Rajasthan."
                 },
                 {
                     "type": "Wildlife",
                     "title": "Indian Leopard",
-                    "image": "/images/states/Rajasthan/Wildlife/indian_leopard.jpg",
+                    "image": "/images/states/Rajasthan/Wildlife/f-3",
                     "content": "The elusive Indian Leopard adds to the thrill of wildlife safaris in Rajasthan's national parks."
                 },
                 {
                     "type": "Wildlife",
                     "title": "Indian Rhinoceros",
-                    "image": "/images/states/Rajasthan/Wildlife/indian_rhinoceros.jpg",
+                    "image": "/images/states/Rajasthan/Wildlife/f-4",
                     "content": "Rajasthan is home to the Indian Rhinoceros, a majestic species found in select wildlife sanctuaries."
                 },
                 {
                     "type": "Wildlife",
                     "title": "Blackbuck",
+                    "image": "/images/states/Rajasthan/Wildlife/f-5",
                     "content": "Graceful Blackbucks, known for their elegant appearance, roam freely in the grasslands of Rajasthan."
                 },
                 {
                     "type": "Wildlife",
                     "title": "Sarus Crane",
-                    "image": "/images/states/Rajasthan/Wildlife/sarus_crane.jpg",
+                    "image": "/images/states/Rajasthan/Wildlife/f-6",
                     "content": "The Sarus Crane, the world's tallest flying bird, can be spotted in wetlands and grasslands of Rajasthan."
                 },
                 {
                     "type": "Wildlife",
                     "title": "Great Indian Bustard",
+                    "image": "/images/states/Rajasthan/Wildlife/f-7",
                     "content": "The Great Indian Bustard, a critically endangered bird, inhabits the semi-arid regions of Rajasthan."
                 },
                 {
                     "type": "Wildlife",
                     "title": "Chinkara",
+                    "image": "/images/states/Rajasthan/Wildlife/f-8",
                     "content": "The Chinkara, a graceful gazelle species, adds to the charm of Rajasthan's wildlife."
                 },
                 {
                     "type": "Wildlife",
                     "title": "Desert Fox",
+                    "image": "/images/states/Rajasthan/Wildlife/f-9",
                     "content": "The Desert Fox, adapted to arid environments, is a fascinating resident of Rajasthan's deserts."
                 },
                 {
                     "type": "Wildlife",
                     "title": "Indian Gazelle",
+                    "image": "/images/states/Rajasthan/Wildlife/f-10",
                     "content": "The Indian Gazelle, also known as Chinkara, is a common sight in the open grasslands of Rajasthan."
                 }
             ]
@@ -981,242 +988,242 @@
             {
               "type": "Food",
               "title": "Chettinad Cuisine",
-              "image": "chettinad_cuisine.jpg",
+              "image": "/images/states/TamilNadu/Food/f-1",
               "content": "Explore the rich and spicy flavors of Chettinad cuisine."
             },
             {
               "type": "Food",
               "title": "Masala Dosa",
-              "image": "masala_dosa.jpg",
+              "image": "/images/states/TamilNadu/Food/f-2",
               "content": "Savor the popular South Indian dish, Masala Dosa, with delicious potato filling."
             },
             {
               "type": "Food",
               "title": "Idli",
-              "image": "idli.jpg",
+              "image": "/images/states/TamilNadu/Food/f-3",
               "content": "Enjoy the steamed rice cakes, Idli, served with coconut chutney and sambar."
             },
             {
               "type": "Food",
               "title": "Sambar",
-              "image": "sambar.jpg",
+              "image": "/images/states/TamilNadu/Food/f-4",
               "content": "Indulge in the flavorful and tangy South Indian lentil soup, Sambar."
             },
             {
               "type": "Food",
               "title": "Pongal",
-              "image": "pongal.jpg",
+              "image": "/images/states/TamilNadu/Food/f-5",
               "content": "Experience the traditional harvest festival dish, Pongal."
             },
             {
               "type": "Food",
               "title": "Jigarthanda",
-              "image": "jigarthanda.jpg",
+              "image": "/images/states/TamilNadu/Food/f-6",
               "content": "Cool off with the refreshing and unique Jigarthanda beverage."
             },
             {
               "type": "Food",
               "title": "Banana Leaf Meals",
-              "image": "banana_leaf_meals.jpg",
+              "image": "/images/states/TamilNadu/Food/f-7",
               "content": "Delight in a sumptuous meal served on a banana leaf, a traditional culinary experience."
             },
             {
               "type": "Food",
               "title": "Murukku",
-              "image": "murukku.jpg",
+              "image": "/images/states/TamilNadu/Food/f-8",
               "content": "Enjoy the crunchy and savory Murukku, a popular South Indian snack."
             },
             {
               "type": "Food",
               "title": "Filter Coffee",
-              "image": "filter_coffee.jpg",
+              "image": "/images/states/TamilNadu/Food/f-9",
               "content": "Sip on the aromatic and strong Filter Coffee, a South Indian coffee specialty."
             },
             {
               "type": "Food",
               "title": "Madurai Jigarthanda",
-              "image": "madurai_jigarthanda.jpg",
+              "image": "/images/states/TamilNadu/Food/f-10",
               "content": "Indulge in the famous dessert beverage, Madurai Jigarthanda, from the city of Madurai."
             },
             {
               "type": "Festivals",
               "title": "Pongal",
-              "image": "pongal_festival.jpg",
+              "image": "/images/states/TamilNadu/Festival/f-1",
               "content": "Celebrate the harvest festival of Pongal with traditional rituals and festivities."
             },
             {
               "type": "Festivals",
               "title": "Jallikattu",
-              "image": "jallikattu.jpg",
+              "image": "/images/states/TamilNadu/Festival/f-2",
               "content": "Experience the traditional bull-taming sport, Jallikattu, during the Pongal festival."
             },
             {
               "type": "Festivals",
               "title": "Natyanjali Dance Festival",
-              "image": "natyanjali_dance_festival.jpg",
+              "image": "/images/states/TamilNadu/Festival/f-3",
               "content": "Witness the vibrant Natyanjali Dance Festival, celebrating classical dance forms."
             },
             {
               "type": "Festivals",
               "title": "Karthigai Deepam",
-              "image": "karthigai_deepam.jpg",
+              "image": "/images/states/TamilNadu/Festival/f-4",
               "content": "Participate in the grand festival of lights, Karthigai Deepam."
             },
             {
               "type": "Festivals",
               "title": "Mahamaham Festival",
-              "image": "mahamaham_festival.jpg",
+              "image": "/images/states/TamilNadu/Festival/f-5",
               "content": "Take part in the auspicious Mahamaham Festival, celebrated every 12 years."
             },
             {
               "type": "Festivals",
               "title": "Chithirai Festival",
-              "image": "chithirai_festival.jpg",
+              "image": "/images/states/TamilNadu/Festival/f-6",
               "content": "Experience the colorful Chithirai Festival, featuring processions and cultural events."
             },
             {
               "type": "Festivals",
               "title": "Aadi Perukku",
-              "image": "aadi_perukku.jpg",
+              "image": "/images/states/TamilNadu/Festival/f-7",
               "content": "Celebrate the Aadi Perukku festival with prayers and riverbank festivities."
             },
             {
               "type": "Festivals",
               "title": "Thai Poosam",
-              "image": "thai_poosam.jpg",
+              "image": "/images/states/TamilNadu/Festival/f-8",
               "content": "Participate in the religious Thai Poosam festival dedicated to Lord Murugan."
             },
             {
               "type": "Festivals",
               "title": "Navaratri",
-              "image": "navaratri.jpg",
+              "image": "/images/states/TamilNadu/Festival/f-9",
               "content": "Join the vibrant Navaratri celebrations with music, dance, and religious observances."
             },
             {
               "type": "Festivals",
               "title": "Diwali",
-              "image": "diwali.jpg",
+              "image": "/images/states/TamilNadu/Festival/f-10",
               "content": "Experience the Festival of Lights, Diwali, with joyous celebrations and colorful lights."
             },
             {
               "type": "Place",
               "title": "Meenakshi Amman Temple",
-              "image": "meenakshi_amman_temple.jpg",
+              "image": "/images/states/TamilNadu/Places/f-2",
               "content": "Visit the iconic Meenakshi Amman Temple, a masterpiece of Dravidian architecture."
             },
             {
               "type": "Place",
               "title": "Ooty",
-              "image": "ooty.jpg",
+              "image": "/images/states/TamilNadu/Places/f-1",
               "content": "Explore the picturesque hill station of Ooty, known for its lush green landscapes."
             },
             {
               "type": "Place",
               "title": "Mahabalipuram",
-              "image": "mahabalipuram.jpg",
+              "image": "/images/states/TamilNadu/Places/f-3",
               "content": "Discover the historical and UNESCO World Heritage site of Mahabalipuram."
             },
             {
               "type": "Place",
               "title": "Rameswaram",
-              "image": "rameswaram.jpg",
+              "image": "/images/states/TamilNadu/Places/f-4",
               "content": "Visit the sacred island of Rameswaram, known for its temples and religious significance."
             },
             {
               "type": "Place",
               "title": "Kodaikanal",
-              "image": "kodaikanal.jpg",
+              "image": "/images/states/TamilNadu/Places/f-5",
               "content": "Experience the serene beauty of Kodaikanal, a charming hill station."
             },
             {
               "type": "Place",
               "title": "Kanyakumari",
-              "image": "kanyakumari.jpg",
+              "image": "/images/states/TamilNadu/Places/f-6",
               "content": "Witness the confluence of three oceans at Kanyakumari and enjoy stunning sunsets."
             },
             {
               "type": "Place",
               "title": "Thanjavur Brihadeeswarar Temple",
-              "image": "thanjavur_brihadeeswarar_temple.jpg",
+              "image": "/images/states/TamilNadu/Places/f-7",
               "content": "Marvel at the architectural grandeur of the Brihadeeswarar Temple in Thanjavur."
             },
             {
               "type": "Place",
               "title": "Nilgiri Biosphere Reserve",
-              "image": "nilgiri_biosphere_reserve.jpg",
+              "image": "/images/states/TamilNadu/Places/f-8",
               "content": "Explore the biodiversity of the Nilgiri Biosphere Reserve, a UNESCO-designated area."
             },
             {
               "type": "Place",
               "title": "Dhanushkodi",
-              "image": "dhanushkodi.jpg",
+              "image": "/images/states/TamilNadu/Places/f-9",
               "content": "Visit the ghost town of Dhanushkodi, located at the tip of Rameswaram."
             },
             {
               "type": "Place",
               "title": "Valluvar Kottam",
-              "image": "valluvar_kottam.jpg",
+              "image": "/images/states/TamilNadu/Places/f-10",
               "content": "Pay homage to the great Tamil poet Valluvar at Valluvar Kottam in Chennai."
             },
             {
               "type": "Wildlife",
-              "title": "Mudumalai National Park",
-              "image": "mudumalai_national_park.jpg",
-              "content": "Discover diverse wildlife at Mudumalai National Park, a haven for nature enthusiasts."
+              "title": "Lion-tailed Macaque",
+              "image": "/images/states/TamilNadu/Widlife/f-11",
+              "content": "A distinctive monkey species with a lion-like mane, found in the Western Ghats, including parts of Tamil Nadu."
             },
             {
               "type": "Wildlife",
-              "title": "Indira Gandhi Wildlife Sanctuary",
-              "image": "indira_gandhi_wildlife_sanctuary.jpg",
-              "content": "Explore the rich biodiversity of Indira Gandhi Wildlife Sanctuary in the Western Ghats."
+              "title": "Nilgiri Langur",
+              "image": "/images/states/TamilNadu/Widlife/f-1",
+              "content": "An Old World monkey species found in the Western Ghats, including the Nilgiri Hills in Tamil Nadu."
             },
             {
               "type": "Wildlife",
-              "title": "Guindy National Park",
-              "image": "guindy_national_park.jpg",
-              "content": "Experience nature in the heart of Chennai at Guindy National Park."
+              "title": "Indian Elephant",
+              "image": "/images/states/TamilNadu/Widlife/f-2",
+              "content": "While Indian Elephants are found in various parts of India, Tamil Nadu is home to a significant population."
             },
             {
               "type": "Wildlife",
-              "title": "Vedanthangal Bird Sanctuary",
-              "image": "vedanthangal_bird_sanctuary.jpg",
-              "content": "Witness a multitude of migratory birds at Vedanthangal Bird Sanctuary."
+              "title": "Indian Pangolin",
+              "image": "/images/states/TamilNadu/Widlife/f-3",
+              "content": "A scaly anteater species found in Tamil Nadu and other parts of India."
             },
             {
               "type": "Wildlife",
-              "title": "Annamalai Tiger Reserve",
-              "image": "annamalai_tiger_reserve.jpg",
-              "content": "Explore the habitats of majestic tigers at Annamalai Tiger Reserve."
+              "title": "Grizzled Giant Squirrel",
+              "image": "/images/states/TamilNadu/Widlife/f-4",
+              "content": "A scaly anteater species found in Tamil Nadu and other parts of India"
             },
             {
               "type": "Wildlife",
-              "title": "Gulf of Mannar Marine National Park",
-              "image": "gulf_of_mannar_marine_national_park.jpg",
-              "content": "Discover marine biodiversity at the Gulf of Mannar Marine National Park."
+              "title": "Indian Giant Squirrel",
+              "image": "/images/states/TamilNadu/Widlife/f-5",
+              "content": "Another species of giant squirrel present in the forests of Tamil Nadu."
             },
             {
               "type": "Wildlife",
-              "title": "Point Calimere Wildlife Sanctuary",
-              "image": "point_calimere_wildlife_sanctuary.jpg",
-              "content": "Experience birdwatching and wildlife at Point Calimere Wildlife Sanctuary."
+              "title": "Dhole",
+              "image": "/images/states/TamilNadu/Widlife/f-6",
+              "content": "Also known as the Indian Wild Dog, Dholes are found in the forests of Tamil Nadu."
             },
             {
               "type": "Wildlife",
-              "title": "Kalakkad Mundanthurai Tiger Reserve",
-              "image": "kalakkad_mundanthurai_tiger_reserve.jpg",
-              "content": "Explore the biodiversity of Kalakkad Mundanthurai Tiger Reserve in the Western Ghats."
+              "title": "Malabar Civete",
+              "image": "/images/states/TamilNadu/Widlife/f-7",
+              "content": "An elusive small carnivore found in the Western Ghats, including parts of Tamil Nadu"
             },
             {
               "type": "Wildlife",
-              "title": "Viralimalai Wildlife Sanctuary",
-              "image": "viralimalai_wildlife_sanctuary.jpg",
-              "content": "Discover the diverse flora and fauna at Viralimalai Wildlife Sanctuary."
+              "title": "Indian Rock Python",
+              "image": "/images/states/TamilNadu/Widlife/f-8",
+              "content": "A non-venomous snake species found in various habitats, including Tamil Nadu."
             },
             {
               "type": "Wildlife",
-              "title": "Sathyamangalam Wildlife Sanctuary",
-              "image": "sathyamangalam_wildlife_sanctuary.jpg",
-              "content": "Explore the scenic landscapes and wildlife at Sathyamangalam Wildlife Sanctuary."
+              "title": "Indian Roller",
+              "image": "/images/states/TamilNadu/Widlife/f-9",
+              "content": "A vibrant bird species with striking colors, commonly found in Tamil Nadu."
             }
           ]
         
@@ -1226,241 +1233,241 @@
           {
             "type": "Food",
             "title": "Thukpa",
-            "image": "food_Thukpa.jpg",
+            "image": "/images/states/Sikkim/Food/f-1",
             "content": "Savor the warmth and flavors of Thukpa, a hearty Tibetan noodle soup popular in the northeastern regions of India."
           },
           {
             "type": "Food",
             "title": "Momos",
-            "image": "food_Momos.jpg",
+            "image": "/images/states/Sikkim/Food/f-2",
             "content": "Delight in the deliciousness of Momos, steamed dumplings filled with a variety of savory fillings, a favorite across the Himalayan region."
           },
           {
             "type": "Food",
             "title": "Phagshapa",
-            "image": "food_Phagshapa.jpg",
+            "image": "/images/states/Sikkim/Food/f-3",
             "content": "Indulge in Phagshapa, a traditional Bhutanese pork dish, slow-cooked to perfection with radishes and red chilies."
           },
           {
             "type": "Food",
             "title": "Gundruk",
-            "image": "food_Gundruk.jpg",
+            "image": "/images/states/Sikkim/Food/f-4",
             "content": "Experience the unique taste of Gundruk, fermented leafy greens that add a tangy and earthy flavor to Nepalese cuisine."
           },
           {
             "type": "Food",
             "title": "Sael Roti",
-            "image": "food_SaelRoti.jpg",
+            "image": "/images/states/Sikkim/Food/f-5",
             "content": "Enjoy the crispy and doughnut-shaped Sael Roti, a traditional rice-based bread, often paired with savory curries in Nepal."
           },
           {
             "type": "Food",
             "title": "Chhurpi",
-            "image": "food_Chhurpi.jpg",
+            "image": "/images/states/Sikkim/Food/f-6",
             "content": "Explore the hardened cheese delight of Chhurpi, a traditional Himalayan cheese that serves as a tasty snack or accompaniment."
           },
           {
             "type": "Food",
             "title": "Kinema",
-            "image": "food_Kinema.jpg",
+            "image": "/images/states/Sikkim/Food/f-7",
             "content": "Dive into the fermented soybean goodness of Kinema, a unique and flavorsome dish from the northeastern regions of India."
           },
           {
             "type": "Food",
             "title": "Sel Roti",
-            "image": "food_SelRoti.jpg",
+            "image": "/images/states/Sikkim/Food/f-8",
             "content": "Indulge in Sel Roti, a traditional rice-based doughnut-shaped bread, often enjoyed as a festive treat in Nepal."
           },
           {
             "type": "Food",
             "title": "Bamboo Shoot Curry",
-            "image": "food_BambooShootCurry.jpg",
+            "image": "/images/states/Sikkim/Food/f-9",
             "content": "Savor the earthy and aromatic Bamboo Shoot Curry, a delicacy prepared with fresh bamboo shoots, herbs, and spices."
           },
           {
             "type": "Food",
             "title": "Fing",
-            "image": "food_Fing.jpg",
+            "image": "/images/states/Sikkim/Food/f-10",
             "content": "Delight in Fing, a flavorful and nutritious dish made with ferns, popular in the northeastern culinary repertoire."
           },
           {
             "type": "Festivals",
             "title": "Losar",
-            "image": "festival_Losar.jpg",
+            "image": "/images/states/Sikkim/Festival/f-1",
             "content": "Celebrate Losar, the Tibetan New Year, with vibrant festivities, cultural performances, and traditional rituals."
           },
           {
             "type": "Festivals",
             "title": "Saga Dawa",
-            "image": "festival_SagaDawa.jpg",
+            "image": "/images/states/Sikkim/Festival/f-2",
             "content": "Participate in the spiritual observances of Saga Dawa, a significant Tibetan Buddhist festival commemorating Buddha's birth, enlightenment, and death."
           },
           {
             "type": "Festivals",
             "title": "Bumchu",
-            "image": "festival_Bumchu.jpg",
+            "image": "/images/states/Sikkim/Festival/f-3",
             "content": "Experience the unique Bumchu festival, marked by the sacred ceremony of predicting the future with the Bum jar in the Tashiding Monastery."
           },
           {
             "type": "Festivals",
             "title": "Dashain",
-            "image": "festival_Dashain.jpg",
+            "image": "/images/states/Sikkim/Festival/f-4",
             "content": "Engage in the grand celebrations of Dashain, the longest and most significant Hindu festival in Nepal, symbolizing the victory of good over evil."
           },
           {
             "type": "Festivals",
             "title": "Tihar",
-            "image": "festival_Tihar.jpg",
+            "image": "/images/states/Sikkim/Festival/f-5",
             "content": "Immerse yourself in the enchanting festival of lights, Tihar, celebrated with reverence for animals and the worship of various deities."
           },
           {
             "type": "Festivals",
             "title": "Maghe Sankranti",
-            "image": "festival_MagheSankranti.jpg",
+            "image": "/images/states/Sikkim/Festival/f-6",
             "content": "Join the festivities of Maghe Sankranti, a winter harvest festival observed with cultural events, feasts, and ritualistic bathing."
           },
           {
             "type": "Festivals",
             "title": "Lhabab Duchen",
-            "image": "festival_LhababDuchen.jpg",
+            "image": "/images/states/Sikkim/Festival/f-7",
             "content": "Participate in Lhabab Duchen, a Buddhist festival commemorating the descent of Buddha from the celestial realm."
           },
           {
             "type": "Festivals",
             "title": "Phang Lhabsol",
-            "image": "festival_PhangLhabsol.jpg",
+            "image": "/images/states/Sikkim/Festival/f-8",
             "content": "Witness the vibrant Phang Lhabsol festival, celebrated with masked dances and rituals to honor Mount Kangchenjunga as a guardian deity."
           },
           {
             "type": "Festivals",
             "title": "Namsoong",
-            "image": "festival_Namsoong.jpg",
+            "image": "/images/states/Sikkim/Festival/f-9",
             "content": "Experience the traditional festival of Namsoong, marked by cultural performances, feasts, and the display of intricate traditional attire."
           },
           {
             "type": "Festivals",
-            "title": "Namsoong",
-            "image": "festival_Namsoong.jpg",
-            "content": "Experience the traditional festival of Namsoong, marked by cultural performances, feasts, and the display of intricate traditional attire."
+            "title": "Sakewa",
+            "image": "/images/states/Sikkim/Festival/f-10",
+            "content": "Sakewa is a festival celebrated by the Rai community in Sikkim. It marks the beginning of the agricultural season and involves traditional dances, rituals, and prayers."
           },
           {
             "type": "Wildlife",
             "title": "Red Panda",
-            "image": "wildlife_RedPanda.jpg",
+            "image": "/images/states/Sikkim/Widlife/f-1",
             "content": "Encounter the adorable Red Panda, a charismatic and endangered species found in the Eastern Himalayas, known for its distinctive red fur and white face."
           },
           {
             "type": "Wildlife",
             "title": "Snow Leopard",
-            "image": "wildlife_SnowLeopard.jpg",
+            "image": "/images/states/Sikkim/Widlife/f-2",
             "content": "Explore the elusive Snow Leopard, a magnificent big cat adapted to high altitudes, known for its thick fur and elusive nature in the mountainous regions."
           },
           {
             "type": "Wildlife",
             "title": "Himalayan Tahr",
-            "image": "wildlife_HimalayanTahr.jpg",
+            "image": "/images/states/Sikkim/Widlife/f-3",
             "content": "Spot the Himalayan Tahr, a sturdy and wild goat species adapted to rocky terrains, known for its distinctive appearance and social behavior."
           },
           {
             "type": "Wildlife",
             "title": "Musk Deer",
-            "image": "wildlife_MuskDeer.jpg",
+            "image": "/images/states/Sikkim/Widlife/f-4",
             "content": "Observe the elusive Musk Deer, known for its musk-producing gland, unique fang-like teeth, and preference for alpine and forested habitats."
           },
           {
             "type": "Wildlife",
             "title": "Himalayan Monal",
-            "image": "wildlife_HimalayanMonal.jpg",
+            "image": "/images/states/Sikkim/Widlife/f-5",
             "content": "Marvel at the vibrant Himalayan Monal, a strikingly beautiful pheasant species known for its colorful plumage and presence in the Himalayan region."
           },
           {
             "type": "Wildlife",
             "title": "Asiatic Black Bear",
-            "image": "wildlife_AsiaticBlackBear.jpg",
+            "image": "/images/states/Sikkim/Widlife/f-6",
             "content": "Encounter the Asiatic Black Bear, a robust bear species with a distinct V-shaped white chest mark, found in the forests of the Himalayas and beyond."
           },
           {
             "type": "Wildlife",
             "title": "Blue Sheep (Bharal)",
-            "image": "wildlife_BlueSheep.jpg",
+            "image": "/images/states/Sikkim/Widlife/f-7",
             "content": "Witness the agility of the Blue Sheep, also known as Bharal, a high-altitude ungulate with a bluish-gray coat, found in the mountainous regions of the Himalayas."
           },
           {
             "type": "Wildlife",
             "title": "Khaleej Pheasant",
-            "image": "wildlife_KhaleejPheasant.jpg",
+            "image": "/images/states/Sikkim/Widlife/f-8",
             "content": "Admire the stunning Khaleej Pheasant, a colorful bird species found in the Himalayan foothills, known for its vibrant plumage and distinctive calls."
           },
           {
             "type": "Wildlife",
             "title": "Clouded Leopard",
-            "image": "wildlife_CloudedLeopard.jpg",
+            "image": "/images/states/Sikkim/Widlife/f-9",
             "content": "Discover the elusive Clouded Leopard, a medium-sized wild cat with distinctive cloud-like markings, found in the dense forests of the Eastern Himalayas."
           },
           {
             "type": "Wildlife",
             "title": "Tibetan Wolf",
-            "image": "wildlife_TibetanWolf.jpg",
+            "image": "/images/states/Sikkim/Widlife/f-10",
             "content": "Learn about the Tibetan Wolf, a resilient and adaptable predator found in the Himalayan and Tibetan regions, known for its social behavior and hunting skills."
           },
           {
             "type": "Place",
             "title": "Gangtok",
-            "image": "place_Gangtok.jpg",
+            "image": "/images/states/Sikkim/Places/f-1",
             "content": "Explore the charming capital city of Sikkim, Gangtok, known for its scenic beauty, vibrant culture, and Buddhist monasteries."
           },
           {
             "type": "Place",
             "title": "Nathula Pass",
-            "image": "place_NathulaPass.jpg",
+            "image": "/images/states/Sikkim/Places/f-2",
             "content": "Witness the breathtaking landscapes at Nathula Pass, a high-altitude mountain pass connecting India and China on the ancient Silk Route."
           },
           {
             "type": "Place",
             "title": "Tsomgo Lake",
-            "image": "place_TsomgoLake.jpg",
+            "image": "/images/states/Sikkim/Places/f-3",
             "content": "Marvel at the pristine beauty of Tsomgo Lake, a glacial lake surrounded by snow-capped mountains, offering a serene and picturesque ambiance."
           },
           {
             "type": "Place",
             "title": "Pelling",
-            "image": "place_Pelling.jpg",
+            "image": "/images/states/Sikkim/Places/f-4",
             "content": "Visit the tranquil town of Pelling, known for its panoramic views of the Himalayas, ancient monasteries, and cultural richness."
           },
           {
             "type": "Place",
             "title": "Yumthang Valley",
-            "image": "place_YumthangValley.jpg",
+            "image": "/images/states/Sikkim/Places/f-5",
             "content": "Experience the breathtaking beauty of Yumthang Valley, also known as the 'Valley of Flowers,' with its meadows, hot springs, and stunning vistas."
           },
           {
             "type": "Place",
             "title": "Ravangla",
-            "image": "place_Ravangla.jpg",
+            "image": "/images/states/Sikkim/Places/f-6",
             "content": "Discover the serene town of Ravangla, surrounded by lush tea gardens, monasteries, and offering panoramic views of the Himalayas."
           },
           {
             "type": "Place",
             "title": "Lachung",
-            "image": "place_Lachung.jpg",
+            "image": "/images/states/Sikkim/Places/f-7",
             "content": "Explore the picturesque village of Lachung, nestled in the Himalayas, known for its scenic landscapes, waterfalls, and apple orchards."
           },
           {
             "type": "Place",
             "title": "Namchi",
-            "image": "place_Namchi.jpg",
+            "image": "/images/states/Sikkim/Places/f-8",
             "content": "Visit the cultural hub of Namchi, home to monasteries, pilgrimage sites, and the towering statue of Guru Padmasambhava."
           },
           {
             "type": "Place",
             "title": "Gurudongmar Lake",
-            "image": "place_GurudongmarLake.jpg",
+            "image": "/images/states/Sikkim/Places/f-9",
             "content": "Witness the stunning beauty of Gurudongmar Lake, one of the highest lakes in the world, surrounded by snow-clad peaks."
           },
           {
             "type": "Place",
             "title": "Zuluk",
-            "image": "place_Zuluk.jpg",
+            "image": "/images/states/Sikkim/Places/f-10",
             "content": "Experience the offbeat charm of Zuluk, a quaint village known for its winding roads, scenic landscapes, and proximity to the Silk Route."
           }
           
@@ -1473,242 +1480,242 @@
         {
           "type": "Food",
           "title": "Jadoh",
-          "image": "jadoh.jpg",
+          "image": "/images/states/Meghalaya/Food/f-1",
           "content": "Taste the traditional Meghalayan dish, Jadoh, a flavorful rice and meat preparation."
         },
         {
           "type": "Food",
           "title": "Dohneiiong",
-          "image": "dohneiiong.jpg",
+          "image": "/images/states/Meghalaya/Food/f-2",
           "content": "Savor Dohneiiong, a popular pork delicacy from Meghalaya."
         },
         {
           "type": "Food",
           "title": "Tungrymbai",
-          "image": "tungrymbai.jpg",
+          "image": "/images/states/Meghalaya/Food/f-3",
           "content": "Experience the unique taste of Tungrymbai, a fermented soybean and bamboo shoot dish."
         },
         {
           "type": "Food",
           "title": "Nakham Bitchi",
-          "image": "nakham_bitchi.jpg",
+          "image": "/images/states/Meghalaya/Food/f-4",
           "content": "Indulge in Nakham Bitchi, a spicy and tangy fish curry from Meghalaya."
         },
         {
           "type": "Food",
           "title": "Pukhlein",
-          "image": "pukhlein.jpg",
+          "image": "/images/states/Meghalaya/Food/f-5",
           "content": "Delight in Pukhlein, a sweet rice pancake, a popular dessert in Meghalaya."
         },
         {
           "type": "Food",
           "title": "Bamboo Shoot Curry",
-          "image": "bamboo_shoot_curry.jpg",
+          "image": "/images/states/Meghalaya/Food/f-6",
           "content": "Enjoy Bamboo Shoot Curry, a delicious and aromatic dish prepared with bamboo shoots."
         },
         {
           "type": "Food",
           "title": "Pumaloi",
-          "image": "pumaloi.jpg",
+          "image": "/images/states/Meghalaya/Food/f-7",
           "content": "Taste Pumaloi, a traditional rice cake from Meghalaya, usually steamed in bamboo tubes."
         },
         {
           "type": "Food",
-          "title": "Doh Kynduh",
-          "image": "doh_kynduh.jpg",
+          "title": "Doh Khlieh",
+          "image": "/images/states/Meghalaya/Food/f-8",
           "content": "Experience Doh Kynduh, a Meghalayan salad made with a variety of local herbs and greens."
         },
         {
           "type": "Food",
           "title": "Dohkhlieh",
-          "image": "dohkhlieh.jpg",
+          "image": "/images/states/Meghalaya/Food/f-9",
           "content": "Try Dohkhlieh, a spicy and tangy pork salad, a popular dish in Meghalaya."
         },
         {
           "type": "Food",
           "title": "Bamboo Shoot and Pork Curry",
-          "image": "bamboo_shoot_pork_curry.jpg",
+          "image": "/images/states/Meghalaya/Food/f-10",
           "content": "Indulge in the rich flavors of Bamboo Shoot and Pork Curry, a Meghalayan specialty."
         },
         {
           "type": "Festivals",
           "title": "Wangala Festival",
-          "image": "wangala_festival.jpg",
+          "image": "/images/states/Meghalaya/Festival/f-1",
           "content": "Participate in the vibrant Wangala Festival, celebrating the harvest season with traditional music and dance."
         },
         {
           "type": "Festivals",
           "title": "Shad Suk Mynsiem",
-          "image": "shad_suk_mynsiem.jpg",
+          "image": "/images/states/Meghalaya/Festival/f-2",
           "content": "Join the colorful Shad Suk Mynsiem festival, marked by traditional dance and cultural celebrations."
         },
         {
           "type": "Festivals",
           "title": "Behdienkhlam",
-          "image": "behdienkhlam.jpg",
+          "image": "/images/states/Meghalaya/Festival/f-3",
           "content": "Celebrate Behdienkhlam, a traditional Meghalayan festival with vibrant processions and rituals."
         },
         {
           "type": "Festivals",
           "title": "Nongkrem Dance",
-          "image": "nongkrem_dance.jpg",
+          "image": "/images/states/Meghalaya/Festival/f-4",
           "content": "Witness the Nongkrem Dance, a grand festival featuring traditional dance performances."
         },
         {
           "type": "Festivals",
           "title": "Doregata Dance",
-          "image": "doregata_dance.jpg",
+          "image": "/images/states/Meghalaya/Festival/f-5",
           "content": "Experience the rhythmic Doregata Dance, a cultural highlight of Meghalaya."
         },
         {
           "type": "Festivals",
           "title": "Shillong Autumn Festival",
-          "image": "shillong_autumn_festival.jpg",
+          "image": "/images/states/Meghalaya/Festival/f-6",
           "content": "Enjoy the Shillong Autumn Festival, a celebration of music, art, and local culture."
         },
         {
           "type": "Festivals",
           "title": "Seng Kut Snem",
-          "image": "seng_kut_snem.jpg",
+          "image": "/images/states/Meghalaya/Festival/f-8",
           "content": "Participate in the traditional Seng Kut Snem festival, marked by community feasts and rituals."
         },
         {
           "type": "Festivals",
           "title": "Laho Dance Festival",
-          "image": "laho_dance_festival.jpg",
+          "image": "/images/states/Meghalaya/Festival/f-7",
           "content": "Join the lively Laho Dance Festival, showcasing the rich cultural heritage of Meghalaya."
         },
         {
           "type": "Festivals",
           "title": "Chad Sukra",
-          "image": "chad_sukra.jpg",
+          "image": "/images/states/Meghalaya/Festival/f-9",
           "content": "Celebrate Chad Sukra, a religious festival with prayers and cultural events in Meghalaya."
         },
         {
           "type": "Festivals",
           "title": "Strawberry Festival",
-          "image": "strawberry_festival.jpg",
+          "image": "/images/states/Meghalaya/Festival/f-10",
           "content": "Partake in the delightful Strawberry Festival, showcasing local produce and flavors."
         },
         {
           "type": "Place",
           "title": "Cherrapunji",
-          "image": "cherrapunji.jpg",
+          "image": "/images/states/Meghalaya/Places/f-1",
           "content": "Explore the breathtaking landscapes of Cherrapunji, known for its lush greenery and rainfall."
         },
         {
           "type": "Place",
           "title": "Shillong",
-          "image": "shillong.jpg",
+          "image": "/images/states/Meghalaya/Places/f-2",
           "content": "Visit the picturesque capital city of Meghalaya, Shillong, known for its pleasant climate and scenic views."
         },
         {
           "type": "Place",
           "title": "Mawlynnong",
-          "image": "mawlynnong.jpg",
+          "image": "/images/states/Meghalaya/Places/f-3",
           "content": "Discover the cleanest village in Asia, Mawlynnong, and its charming living root bridges."
         },
         {
           "type": "Place",
           "title": "Dawki",
-          "image": "dawki.jpg",
+          "image": "/images/states/Meghalaya/Places/f-4",
           "content": "Experience the crystal-clear waters of Dawki and indulge in boating activities."
         },
         {
           "type": "Place",
           "title": "Nohkalikai Falls",
-          "image": "nohkalikai_falls.jpg",
+          "image": "/images/states/Meghalaya/Places/f-5",
           "content": "Witness the majestic Nohkalikai Falls, one of the highest plunge waterfalls in India."
         },
         {
           "type": "Place",
           "title": "Elephant Falls",
-          "image": "elephant_falls.jpg",
+          "image": "/images/states/Meghalaya/Places/f-6",
           "content": "Visit the enchanting Elephant Falls, a popular tourist attraction near Shillong."
         },
         {
           "type": "Place",
           "title": "Living Root Bridges",
-          "image": "living_root_bridges.jpg",
+          "image": "/images/states/Meghalaya/Places/f-7",
           "content": "Explore the unique Living Root Bridges in Meghalaya, a testament to traditional engineering."
         },
         {
           "type": "Place",
           "title": "Umiam Lake",
-          "image": "umiam_lake.jpg",
+          "image": "/images/states/Meghalaya/Places/f-8",
           "content": "Enjoy the serene surroundings of Umiam Lake, a peaceful reservoir near Shillong."
         },
         {
           "type": "Place",
           "title": "Mawsmai Caves",
-          "image": "mawsmai_caves.jpg",
+          "image": "/images/states/Meghalaya/Places/f-9",
           "content": "Discover the ancient Mawsmai Caves, known for their impressive limestone formations."
         },
         {
           "type": "Place",
           "title": "Krang Suri Waterfall",
-          "image": "krang_suri_waterfall.jpg",
+          "image": "/images/states/Meghalaya/Places/f-10",
           "content": "Chase the beauty of Krang Suri Waterfall, a hidden gem in the Jaintia Hills."
         },
         {
           "type": "Wildlife",
-          "title": "Balpakram National Park",
-          "image": "balpakram_national_park.jpg",
-          "content": "Explore the diverse flora and fauna of Balpakram National Park, known for its wildlife conservation."
+          "title": "Bison",
+          "image": "/images/states/Meghalaya/Widlife/f-1",
+          "content": "The Bison, also known as the Indian Bison, is one of the majestic creatures you can find in Balpakram National Park. Explore the diverse flora and fauna of this park, known for its wildlife conservation efforts.."
         },
         {
           "type": "Wildlife",
-          "title": "Nokrek National Park",
-          "image": "nokrek_national_park.jpg",
-          "content": "Witness the biodiversity of Nokrek National Park, a UNESCO Biosphere Reserve."
+          "title": "Hoolock Gibbon",
+          "image": "/images/states/Meghalaya/Widlife/f-2",
+          "content": "The Hoolock Gibbon, a primate known for its distinctive appearance, is part of the rich biodiversity in Nokrek National Park. Witness the unique and diverse flora and fauna of this UNESCO Biosphere Reserve."
         },
         {
           "type": "Wildlife",
-          "title": "Baghmara Pitcher Plant Sanctuary",
-          "image": "baghmara_pitcher_plant_sanctuary.jpg",
-          "content": "Visit the Baghmara Pitcher Plant Sanctuary, dedicated to the conservation of unique pitcher plants."
+          "title": "Bengal Tiger",
+          "image": "/images/states/Meghalaya/Widlife/f-3",
+          "content": "The Bengal Tiger, a majestic big cat, roams the Siju Wildlife Sanctuary. This sanctuary is a haven for nature enthusiasts, offering a chance to experience the rich and diverse wildlife of the region"
         },
         {
           "type": "Wildlife",
-          "title": "Siju Wildlife Sanctuary",
-          "image": "siju_wildlife_sanctuary.jpg",
-          "content": "Experience the rich wildlife at Siju Wildlife Sanctuary, a haven for nature enthusiasts."
+          "title": "Meghalaya Whistling Thrush ",
+          "image": "/images/states/Meghalaya/Widlife/f-4",
+          "content": "This bird species is found in the northeastern states of India, and Meghalaya is part of its distribution range."
         },
         {
           "type": "Wildlife",
-          "title": "Kyllang Rock",
-          "image": "kyllang_rock.jpg",
-          "content": "Explore Kyllang Rock, a sacred site with panoramic views and cultural significance."
+          "title": "Clouded Leopard",
+          "image": "/images/states/Meghalaya/Widlife/f-5",
+          "content": "A medium-sized wild cat with distinctive cloud-like markings on its coat."
         },
         {
           "type": "Wildlife",
-          "title": "Nongkhnum Island",
-          "image": "nongkhnum_island.jpg",
-          "content": "Visit Nongkhnum Island, the second-largest river island in Asia, for its natural beauty."
+          "title": "Red Panda",
+          "image": "/images/states/Meghalaya/Widlife/f-6",
+          "content": "A charming arboreal mammal with reddish-brown fur, known for its bamboo-heavy diet."
         },
         {
           "type": "Wildlife",
-          "title": "Siju Cave Complex",
-          "image": "siju_cave_complex.jpg",
+          "title": "Sambar Deer",
+          "image": "/images/states/Meghalaya/Widlife/f-7",
           "content": "Discover the fascinating Siju Cave Complex, home to unique limestone formations and bats."
         },
         {
           "type": "Wildlife",
-          "title": "Pelga Falls",
-          "image": "pelga_falls.jpg",
-          "content": "Enjoy the scenic beauty of Pelga Falls, surrounded by lush greenery and wildlife."
+          "title": "Khasi Pine",
+          "image": "/images/states/Meghalaya/Widlife/f-8",
+          "content": "The Khasi Pine is a coniferous tree species native to the Khasi Hills in Meghalaya."
         },
         {
           "type": "Wildlife",
-          "title": "Siju Bird Sanctuary",
-          "image": "siju_bird_sanctuary.jpg",
-          "content": "Witness a variety of bird species at Siju Bird Sanctuary, a paradise for birdwatchers."
+          "title": "Meghalaya Grass Frog",
+          "image": "/images/states/Meghalaya/Widlife/f-9",
+          "content": "This amphibian species is found in Meghalaya and some other northeastern states of India."
         },
         {
           "type": "Wildlife",
-          "title": "West Garo Hills Wildlife Division Wildlife of Meghalaya",
-          "image": "wildlife_of_meghalaya.jpg",
-          "content": "Explore the diverse wildlife in the West Garo Hills Wildlife Division of Meghalaya."
+          "title": "Meghalaya Lizard",
+          "image": "/images/states/Meghalaya/Widlife/f-10",
+          "content": "This lizard species is known to inhabit the hilly areas of Meghalaya."
         }
       ]
     },
@@ -1717,241 +1724,241 @@
         {
           "type": "Food",
           "title": "Sidu",
-          "image": "sidu.jpg",
+          "image": "/images/states/Himachal Pradesh/Food/f-1",
           "content": "Savor the traditional Himachali Sidu, a stuffed bread enjoyed with ghee or butter."
         },
         {
           "type": "Food",
           "title": "Thukpa",
-          "image": "thukpa.jpg",
+          "image": "/images/states/Himachal Pradesh/Food/f-2",
           "content": "Indulge in Thukpa, a hearty noodle soup that originated in Tibetan cuisine and is popular in Himachal Pradesh."
         },
         {
           "type": "Food",
           "title": "Dham",
-          "image": "dham.jpg",
+          "image": "/images/states/Himachal Pradesh/Food/f-3",
           "content": "Experience Dham, a traditional feast in Himachal Pradesh featuring a variety of delectable dishes."
         },
         {
           "type": "Food",
           "title": "Babru",
-          "image": "babru.jpg",
+          "image": "/images/states/Himachal Pradesh/Food/f-4",
           "content": "Enjoy Babru, a deep-fried bread stuffed with black gram paste, a delightful Himachali snack."
         },
         {
           "type": "Food",
           "title": "Momos",
-          "image": "momos.jpg",
+          "image": "/images/states/Himachal Pradesh/Food/f-5",
           "content": "Delight in Momos, steamed or fried dumplings filled with meat or vegetables, a popular street food in Himachal Pradesh."
         },
         {
           "type": "Food",
           "title": "Chha Gosht",
-          "image": "chha_gosht.jpg",
+          "image": "/images/states/Himachal Pradesh/Food/f-6",
           "content": "Savor the rich and flavorful Chha Gosht, a Himachali dish featuring marinated lamb cooked to perfection."
         },
         {
           "type": "Food",
-          "title": "Chha Gosht",
-          "image": "chha_gosht.jpg",
-          "content": "Savor the rich and flavorful Chha Gosht, a Himachali dish featuring marinated lamb cooked to perfection."
+          "title": "Kullu Trout",
+          "image": "/images/states/Himachal Pradesh/Food/f-7",
+          "content": "The Kullu Valley is particularly famous for its trout preparations, which are often served grilled or fried."
         },
         {
           "type": "Food",
-          "title": "Chha Gosht",
-          "image": "chha_gosht.jpg",
-          "content": "Savor the rich and flavorful Chha Gosht, a Himachali dish featuring marinated lamb cooked to perfection."
+          "title": "Rogan Josh",
+          "image": "/images/states/Himachal Pradesh/Food/f-8",
+          "content": " This is a flavorful and aromatic meat curry, typically made with lamb or goat meat. It is rich in spices and has a distinctive red color."
         },
         {
           "type": "Food",
-          "title": "Chha Gosht",
-          "image": "chha_gosht.jpg",
-          "content": "Savor the rich and flavorful Chha Gosht, a Himachali dish featuring marinated lamb cooked to perfection."
+          "title": "Luchi Poti",
+          "image": "/images/states/Himachal Pradesh/Food/f-9",
+          "content": "This is a sweet dish made with wheat flour and jaggery. It is often prepared during festivals and celebrations in Himachal Pradesh."
         },
         {
           "type": "Food",
-          "title": "Chha Gosht",
-          "image": "chha_gosht.jpg",
-          "content": "Savor the rich and flavorful Chha Gosht, a Himachali dish featuring marinated lamb cooked to perfection."
+          "title": "Babru",
+          "image": "/images/states/Himachal Pradesh/Food/f-10",
+          "content": "Babru is a deep-fried bread stuffed with black gram paste. It is a popular breakfast or snack item in Himachal Pradesh."
         },
         {
           "type": "Festivals",
           "title": "Kullu Dussehra",
-          "image": "kullu_dussehra.jpg",
+          "image": "/images/states/Himachal Pradesh/Festival/f-1",
           "content": "Participate in the vibrant Kullu Dussehra, a week-long festival with processions, folk music, and cultural events."
         },
         {
           "type": "Festivals",
           "title": "Himachal Winter Carnival",
-          "image": "himachal_winter_carnival.jpg",
+          "image": "/images/states/Himachal Pradesh/Festival/f-2",
           "content": "Experience the joyous Himachal Winter Carnival, featuring parades, folk dances, and winter sports."
         },
         {
           "type": "Festivals",
           "title": "Losar",
-          "image": "losar.jpg",
+          "image": "/images/states/Himachal Pradesh/Festival/f-3",
           "content": "Celebrate Losar, the Tibetan New Year, with traditional ceremonies and cultural performances in Himachal Pradesh."
         },
         {
           "type": "Festivals",
           "title": "Halda Festival",
-          "image": "halda_festival.jpg",
+          "image": "/images/states/Himachal Pradesh/Festival/f-4",
           "content": "Partake in the Halda Festival, a unique celebration of lights and bonfires in Himachal Pradesh."
         },
         {
           "type": "Festivals",
           "title": "Phulaich Festival",
-          "image": "phulaich_festival.jpg",
+          "image": "/images/states/Himachal Pradesh/Festival/f-5",
           "content": "Witness the colorful Phulaich Festival, celebrated with flower offerings and traditional dances."
         },
         {
           "type": "Festivals",
           "title": "Holi",
-          "image": "holi.jpg",
+          "image": "/images/states/Himachal Pradesh/Festival/f-6",
           "content": "Join the vibrant Holi celebrations in Himachal Pradesh, marked by colorful festivities and joyous gatherings."
         },
         {
           "type": "Festivals",
           "title": "Diwali",
-          "image": "diwali.jpg",
+          "image": "/images/states/Himachal Pradesh/Festival/f-7",
           "content": "Celebrate Diwali, the Festival of Lights, with enthusiasm and traditional rituals in Himachal Pradesh."
         },
         {
           "type": "Festivals",
           "title": "Lohri",
-          "image": "lohri.jpg",
+          "image": "/images/states/Himachal Pradesh/Festival/f-8",
           "content": "Participate in the lively Lohri celebrations, marked by bonfires, music, and dance in Himachal Pradesh."
         },
         {
           "type": "Festivals",
           "title": "Shivratri",
-          "image": "shivratri.jpg",
+          "image": "/images/states/Himachal Pradesh/Festival/f-9",
           "content": "Observe the religious festival of Shivratri with prayers and cultural events in Himachal Pradesh."
         },
         {
           "type": "Festivals",
           "title": "Navratri",
-          "image": "navratri.jpg",
+          "image": "/images/states/Himachal Pradesh/Festival/f-10",
           "content": "Partake in the vibrant Navratri celebrations, featuring traditional dance and music performances in Himachal Pradesh."
         },
         {
           "type": "Place",
           "title": "Manali",
-          "image": "manali.jpg",
+          "image": "/images/states/Himachal Pradesh/Places/f-1",
           "content": "Explore the picturesque town of Manali, known for its stunning landscapes, adventure activities, and vibrant markets."
         },
         {
           "type": "Place",
         "title": "Shimla",
-        "image": "shimla.jpg",
+        "image": "/images/states/Himachal Pradesh/Places/f-2",
         "content": "Visit the charming hill station of Shimla, surrounded by snow-capped mountains and colonial architecture."
     },
     {
         "type": "Place",
         "title": "Dharamshala",
-        "image": "dharamshala.jpg",
+        "image": "/images/states/Himachal Pradesh/Places/f-3",
         "content": "Experience the spiritual ambiance of Dharamshala, home to the Tibetan government-in-exile and the Dalai Lama."
     },
     {
         "type": "Place",
         "title": "Kullu",
-        "image": "kullu.jpg",
+        "image": "/images/states/Himachal Pradesh/Places/f-4",
         "content": "Discover the scenic beauty of Kullu, nestled in the Kullu Valley and renowned for its temples and festivals."
     },
     {
         "type": "Place",
         "title": "Rohtang Pass",
-        "image": "rohtang_pass.jpg",
+        "image": "/images/states/Himachal Pradesh/Places/f-5",
         "content": "Marvel at the breathtaking views from Rohtang Pass, a high mountain pass offering access to the Lahaul and Spiti valleys."
     },
     {
         "type": "Place",
         "title": "Khajjiar",
-        "image": "khajjiar.jpg",
+        "image": "/images/states/Himachal Pradesh/Places/f-6",
         "content": "Visit Khajjiar, often referred to as the 'Mini Switzerland of India,' with its lush green meadows and scenic landscapes."
     },
     {
         "type": "Place",
         "title": "Spiti Valley",
-        "image": "spiti_valley.jpg",
+        "image": "/images/states/Himachal Pradesh/Places/f-7",
         "content": "Embark on a journey to Spiti Valley, known for its rugged terrain, ancient monasteries, and Tibetan culture."
     },
     {
         "type": "Place",
         "title": "Kinnaur",
-        "image": "kinnaur.jpg",
+        "image": "/images/states/Himachal Pradesh/Places/f-8",
         "content": "Explore the serene Kinnaur region, blessed with apple orchards, picturesque villages, and Buddhist monasteries."
     },
     {
         "type": "Place",
         "title": "Chamba",
-        "image": "chamba.jpg",
+        "image": "/images/states/Himachal Pradesh/Places/f-9",
         "content": "Immerse yourself in the historical charm of Chamba, featuring ancient temples, palaces, and scenic landscapes."
     },
     {
         "type": "Place",
         "title": "Kasol",
-        "image": "kasol.jpg",
+        "image": "/images/states/Himachal Pradesh/Places/f-10",
         "content": "Relax in the laid-back atmosphere of Kasol, a popular destination for trekking and nature enthusiasts."
     },
     {
         "type": "Wildlife",
         "title": "Himalayan Monal",
-        "image": "himalayan_monal.jpg",
+        "image": "/images/states/Himachal Pradesh/Widlife/f-1",
         "content": "Admire the vibrant colors of the Himalayan Monal, the state bird of Himachal Pradesh, in its natural habitat."
     },
     {
         "type": "Wildlife",
         "title": "Snow Leopard",
-        "image": "snow_leopard.jpg",
+        "image": "/images/states/Himachal Pradesh/Widlife/f-2",
         "content": "Discover the elusive Snow Leopard, a majestic big cat adapted to the high-altitude regions of Himachal Pradesh."
     },
     {
         "type": "Wildlife",
         "title": "Himalayan Tahr",
-        "image": "himalayan_tahr.jpg",
+        "image": "/images/states/Himachal Pradesh/Widlife/f-3",
         "content": "Encounter the Himalayan Tahr, a wild goat species perfectly adapted to the rocky mountainous terrain."
     },
     {
         "type": "Wildlife",
         "title": "Red Fox",
-        "image": "red_fox.jpg",
+        "image": "/images/states/Himachal Pradesh/Widlife/f-4",
         "content": "Spot the Red Fox, a cunning and adaptable mammal found in the forests and mountainous areas of Himachal Pradesh."
     },
     {
         "type": "Wildlife",
         "title": "Blue Sheep",
-        "image": "blue_sheep.jpg",
+        "image": "/images/states/Himachal Pradesh/Widlife/f-5",
         "content": "Observe the Blue Sheep, also known as Bharal, agilely navigating the steep slopes of the Himalayas."
     },
     {
         "type": "Wildlife",
         "title": "Musk Deer",
-        "image": "musk_deer.jpg",
+        "image": "/images/states/Himachal Pradesh/Widlife/f-6",
         "content": "Learn about the elusive Musk Deer, known for its musk glands and shy nature in the forests of Himachal Pradesh."
     },
     {
         "type": "Wildlife",
         "title": "Himalayan Brown Bear",
-        "image": "himalayan_brown_bear.jpg",
+        "image": "/images/states/Himachal Pradesh/Widlife/f-7",
         "content": "Discover the Himalayan Brown Bear, a large and powerful mammal inhabiting the remote regions of Himachal Pradesh."
     },
     {
         "type": "Wildlife",
         "title": "Serow",
-        "image": "serow.jpg",
+        "image": "/images/states/Himachal Pradesh/Widlife/f-8",
         "content": "Encounter the Serow, a goat-like mammal known for its distinct appearance and presence in the Himalayan forests."
     },
     {
         "type": "Wildlife",
         "title": "Common Langur",
-        "image": "common_langur.jpg",
+        "image": "/images/states/Himachal Pradesh/Widlife/f-9",
         "content": "Observe the Common Langur, an agile and social monkey species found in the forests of Himachal Pradesh."
     },
     {
         "type": "Wildlife",
         "title": "Himalayan Palm Civet",
-        "image": "himalayan_palm_civet.jpg",
+        "image": "/images/states/Himachal Pradesh/Widlife/f-10",
         "content": "Learn about the Himalayan Palm Civet, a small and nocturnal mammal residing in the dense forests of Himachal Pradesh."
     }
     ]
@@ -2211,240 +2218,240 @@
             "type": "Wildlife",
             "title": "Bengal Tiger",
             "content": "Encounter the majestic Bengal Tiger in the wild, a symbol of India's rich biodiversity and a powerful apex predator.",
-            "image": "wildlife_BengalTiger.jpg"
+            "image": "/images/states/Madhya Pradesh/Wildlife/f-1"
           },
           {
             "type": "Wildlife",
             "title": "Indian Leopard",
             "content": "Witness the elusive Indian Leopard, known for its spotted coat and stealthy movements, roaming the diverse landscapes of Goa.",
-            "image": "wildlife_IndianLeopard.jpg"
+            "image": "/images/states/Madhya Pradesh/Wildlife/f-2"
           },
           {
             "type": "Wildlife",
             "title": "Barasingha (Swamp Deer)",
             "content": "Observe the graceful Barasingha, or Swamp Deer, in its natural habitat, adding charm to Goa's wetland ecosystems.",
-            "image": "wildlife_Barasingha.jpg"
+            "image": "/images/states/Madhya Pradesh/Wildlife/f-3"
           },
           {
             "type": "Wildlife",
             "title": "Indian Bison (Gaur)",
             "content": "Marvel at the Indian Bison, or Gaur, with its formidable build, symbolizing the untamed beauty of Goa's forests.",
-            "image": "wildlife_IndianBison.jpg"
+            "image": "/images/states/Madhya Pradesh/Wildlife/f-4"
           },
           {
             "type": "Wildlife",
             "title": "Sloth Bear",
             "content": "Explore the world of the Sloth Bear, characterized by its shaggy coat and distinctively shaped snout, a fascinating resident of Goa's wilderness.",
-            "image": "wildlife_SlothBear.jpg"
+            "image": "/images/states/Madhya Pradesh/Wildlife/f-5"
           },
           {
             "type": "Wildlife",
             "title": "Indian Wolf",
             "content": "Discover the Indian Wolf, a skilled and adaptable predator, embodying the spirit of survival in Goa's diverse terrains.",
-            "image": "wildlife_IndianWolf.jpg"
+            "image": "/images/states/Madhya Pradesh/Wildlife/f-6"
           },
           {
             "type": "Wildlife",
             "title": "Chital (Spotted Deer)",
             "content": "Admire the elegance of the Chital, or Spotted Deer, as it gracefully roams through Goa's landscapes, adorned with distinctive spots.",
-            "image": "wildlife_Chital.jpg"
+            "image": "/images/states/Madhya Pradesh/Wildlife/f-7"
           },
           {
             "type": "Wildlife",
             "title": "Sambar Deer",
             "content": "Encounter the majestic Sambar Deer, a large and regal herbivore, contributing to the serene beauty of Goa's woodlands.",
-            "image": "wildlife_SambarDeer.jpg"
+            "image": "/images/states/Madhya Pradesh/Wildlife/f-8"
           },
           {
             "type": "Wildlife",
             "title": "Indian Wild Dog (Dhole)",
             "content": "Observe the Indian Wild Dog, or Dhole, in its natural habitat, known for its social behavior and cooperative hunting strategies.",
-            "image": "wildlife_IndianWildDog.jpg"
+            "image": "/images/states/Madhya Pradesh/Wildlife/f-9"
           },
           {
             "type": "Wildlife",
             "title": "Indian Giant Squirrel",
             "content": "Marvel at the vibrant Indian Giant Squirrel, gracefully leaping through the treetops, adding color to Goa's lush forests.",
-            "image": "wildlife_IndianGiantSquirrel.jpg"
+            "image": "/images/states/Madhya Pradesh/Wildlife/f-10"
           },
           {
             "type": "Food",
             "title": "Poha",
-            "image": "goa_Food_1.jpg",
+            "image": "/images/states/Madhya Pradesh/Food/f-1",
             "content": "Savor the delightful taste of Madhya Pradesh with Poha, a traditional breakfast dish made with flattened rice and spices."
           },
           {
             "type": "Food",
             "title": "Dal Bafla",
-            "image": "goa_Food_2.jpg",
+            "image": "/images/states/Madhya Pradesh/Food/f-2",
             "content": "Indulge in the richness of Madhya Pradesh cuisine with Dal Bafla, a savory dish featuring baked wheat dough paired with lentils."
           },
           {
             "type": "Food",
             "title": "Bhutte Ka Kees",
-            "image": "goa_Food_3.jpg",
+            "image": "/images/states/Madhya Pradesh/Food/f-3",
             "content": "Experience the spicy flavors of Madhya Pradesh with Bhutte Ka Kees, a dish made from grated corn cooked in milk and spices."
           },
           {
             "type": "Food",
             "title": "Seekh Kebabs",
-            "image": "goa_Food_4.jpg",
+            "image": "/images/states/Madhya Pradesh/Food/f-4",
             "content": "Delight in the culinary excellence of Madhya Pradesh with Seekh Kebabs, skewers of minced meat seasoned and grilled to perfection."
           },
           {
             "type": "Food",
             "title": "Rogan Josh",
-            "image": "goa_Food_5.jpg",
+            "image": "/images/states/Madhya Pradesh/Food/f-5",
             "content": "Savor the fusion of flavors in Madhya Pradesh with Rogan Josh, a aromatic and flavorful meat curry."
           },
           {
             "type": "Food",
             "title": "Shikanji",
-            "image": "goa_Food_6.jpg",
+            "image": "/images/states/Madhya Pradesh/Food/f-6",
             "content": "Quench your thirst with the refreshing taste of Shikanji, a popular Madhya Pradesh street drink infused with lemon and spices."
           },
           {
             "type": "Food",
             "title": "Lavang Lata",
-            "image": "goa_Food_7.jpg",
+            "image": "/images/states/Madhya Pradesh/Food/f-7",
             "content": "Indulge in vegetarian bliss with Lavang Lata, a sweet delicacy from Madhya Pradesh made with clove-infused dough."
           },
           {
             "type": "Food",
             "title": "Sabudana Khichdi",
-            "image": "goa_Food_8.jpg",
+            "image": "/images/states/Madhya Pradesh/Food/f-8",
             "content": "Relish the wholesome goodness of Sabudana Khichdi, a popular fasting dish in Madhya Pradesh made with tapioca pearls and spices."
           },
           {
             "type": "Food",
             "title": "Jalebi",
-            "image": "goa_Food_9.jpg",
+            "image": "/images/states/Madhya Pradesh/Food/f-9",
             "content": "Indulge your sweet tooth with Jalebi, a classic dessert in Madhya Pradesh, known for its coiled and syrup-soaked perfection."
           },
           {
             "type": "Food",
             "title": "Indori Namkeen",
-            "image": "goa_Food_10.jpg",
+            "image": "/images/states/Madhya Pradesh/Food/f-10",
             "content": "Satisfy your snack cravings with Indori Namkeen, a savory and crunchy snack assortment famous in Madhya Pradesh."
           },
           {
             "type": "Festivals",
             "title": "Khajuraho Dance Festival",
-            "image": "goa_Festivals_1.jpg",
+            "image": "/images/states/Madhya Pradesh/Festival/f-1",
             "content": "Immerse yourself in the cultural extravaganza of Madhya Pradesh with the Khajuraho Dance Festival, a showcase of classical dance forms."
           },
           {
             "type": "Festivals",
             "title": "Tansen Music Festival",
-            "image": "goa_Festivals_2.jpg",
+            "image": "/images/states/Madhya Pradesh/Festival/f-2",
             "content": "Experience the enchanting melodies of classical music at the Tansen Music Festival, a celebration of musical heritage in Madhya Pradesh."
           },
           {
             "type": "Festivals",
             "title": "Malwa Utsav",
-            "image": "goa_Festivals_3.jpg",
+            "image": "/images/states/Madhya Pradesh/Festival/f-3",
             "content": "Partake in the vibrant Malwa Utsav, a festival that showcases the rich cultural heritage of the Malwa region in Madhya Pradesh."
           },
           {
             "type": "Festivals",
             "title": "Mandu Festival",
-            "image": "goa_Festivals_4.jpg",
+            "image": "/images/states/Madhya Pradesh/Festival/f-4",
             "content": "Celebrate history and architecture at the Mandu Festival, an event that brings alive the historical charm of Mandu in Madhya Pradesh."
           },
           {
             "type": "Festivals",
             "title": "Pachmarhi Utsav",
-            "image": "goa_Festivals_5.jpg",
+            "image": "/images/states/Madhya Pradesh/Festival/f-5",
             "content": "Immerse yourself in the beauty of nature and culture at the Pachmarhi Utsav, a festival set amidst the scenic landscapes of Madhya Pradesh."
           },
           {
             "type": "Festivals",
             "title": "Lokrang Samaroh",
-            "image": "goa_Festivals_6.jpg",
+            "image": "/images/states/Madhya Pradesh/Festival/f-6",
             "content": "Witness the cultural diversity of Madhya Pradesh at Lokrang Samaroh, a folk festival that celebrates traditional arts and crafts."
           },
           {
             "type": "Festivals",
             "title": "Nimar Utsav",
-            "image": "goa_Festivals_7.jpg",
+            "image": "/images/states/Madhya Pradesh/Festival/f-7",
             "content": "Experience the vibrant Nimar Utsav, a festival that showcases the cultural vibrancy of the Nimar region in Madhya Pradesh."
           },
           {
             "type": "Festivals",
             "title": "Bhagoria Haat Festival",
-            "image": "goa_Festivals_8.jpg",
+            "image": "/images/states/Madhya Pradesh/Festival/f-8",
             "content": "Participate in the lively Bhagoria Haat Festival, known for its traditional rituals and cultural festivities in Madhya Pradesh."
           },
           {
             "type": "Festivals",
             "title": "Ahilya Utsav",
-            "image": "goa_Festivals_9.jpg",
+            "image": "/images/states/Madhya Pradesh/Festival/f-9",
             "content": "Celebrate the legacy of Ahilyabai Holkar at Ahilya Utsav, an event that pays homage to this historical figure in Madhya Pradesh."
           },
           {
             "type": "Festivals",
             "title": "Shivratri Mela",
-            "image": "goa_Festivals_10.jpg",
+            "image": "/images/states/Madhya Pradesh/Festival/f-10",
             "content": "Join the spiritual fervor of Shivratri Mela, a grand celebration of Lord Shiva, marked by religious rituals and cultural events in Madhya Pradesh."
           },
           {
             "type": "Place",
             "title": "Bhopal",
-            "image": "goa_Place_1.jpg",
+            "image": "/images/states/Madhya Pradesh/Places/f-11",
             "content": "Explore the capital city of Madhya Pradesh, Bhopal, known for its historical monuments, vibrant markets, and cultural richness."
           },
           {
             "type": "Place",
             "title": "Indore",
-            "image": "goa_Place_2.jpg",
+            "image": "/images/states/Madhya Pradesh/Places/f-2",
             "content": "Discover the commercial hub of Madhya Pradesh, Indore, with its bustling bazaars, delectable street food, and architectural gems."
           },
           {
             "type": "Place",
             "title": "Gwalior",
-            "image": "goa_Place_3.jpg",
+            "image": "/images/states/Madhya Pradesh/Places/f-3",
             "content": "Step into the regal city of Gwalior, adorned with majestic forts, palaces, and the melodious echoes of classical music."
           },
           {
             "type": "Place",
             "title": "Khajuraho",
-            "image": "goa_Place_4.jpg",
+            "image": "/images/states/Madhya Pradesh/Places/f-4",
             "content": "Witness the architectural splendor of Khajuraho, a UNESCO World Heritage Site known for its intricately carved temples depicting human emotions."
           },
           {
             "type": "Place",
             "title": "Jabalpur",
-            "image": "goa_Place_5.jpg",
+            "image": "/images/states/Madhya Pradesh/Places/f-5",
             "content": "Experience the natural beauty of Jabalpur, set along the banks of the Narmada River, with its iconic marble rocks and serene landscapes."
           },
           {
             "type": "Place",
             "title": "Ujjain",
-            "image": "goa_Place_6.jpg",
+            "image": "/images/states/Madhya Pradesh/Places/f-6",
             "content": "Embark on a spiritual journey in Ujjain, a city known for its ancient temples, sacred ghats, and the divine atmosphere during the Kumbh Mela."
           },
           {
             "type": "Place",
             "title": "Sanchi",
-            "image": "goa_Place_7.jpg",
+            "image": "/images/states/Madhya Pradesh/Places/f-7",
             "content": "Explore the UNESCO-listed Buddhist monuments of Sanchi, featuring ancient stupas, monasteries, and intricately carved gateways."
           },
           {
             "type": "Place",
             "title": "Pachmarhi",
-            "image": "goa_Place_8.jpg",
+            "image": "/images/states/Madhya Pradesh/Places/f-8",
             "content": "Immerse yourself in the serene beauty of Pachmarhi, a hill station adorned with waterfalls, lush forests, and panoramic viewpoints."
           },
           {
             "type": "Place",
           "title": "Orchha",
-          "image": "goa_Place_9.jpg",
+          "image": "/images/states/Madhya Pradesh/Places/f-9",
           "content": "Step back in time as you explore Orchha, a town with medieval architecture, cenotaphs, and palaces narrating tales of bygone eras in Madhya Pradesh."
         },
         {
           "type": "Place",
           "title": "Kanha National Park",
-          "image": "goa_Place_10.jpg",
+          "image": "/images/states/Madhya Pradesh/Places/f-10",
           "content": "Embark on a wildlife adventure in Kanha National Park, known for its diverse flora and fauna, including the majestic Bengal tiger."
         }
         ]
