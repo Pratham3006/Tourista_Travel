@@ -13,16 +13,16 @@ export default function Nextpage() {
   const { state, option } = useParams();
   const categoryData = data.data[state]?.options || [];
 
-  // Filter items based on the selected option
+  
   const filteredItems = categoryData.filter(item => item.type.toLowerCase() === option.toLowerCase());
 
-  // Use the first 10 items from the filtered options array
+  
   const itemsForHeaders = filteredItems.slice(0, 10);
 
-  // Create an array to store Cardrow2 components
+  
   const cardComponents = [];
 
-  // Loop through the items and create Cardrow2 components dynamically
+  
   for (let i = 0; i < itemsForHeaders.length; i += 2) {
     cardComponents.push(
       <Cardrow2

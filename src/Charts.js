@@ -57,7 +57,7 @@ export default function () {
 
     const handleStateChange = (e) => {
         setSelectedState(e.target.value);
-        setSelectedPlace(""); // Reset selected place when the state changes
+        setSelectedPlace(""); 
         setFilteredData([]);
 
     };
